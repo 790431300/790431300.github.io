@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<!--STATUS OK-->
+<head>
+<meta http-equiv="Content-Type"
+content="text/html; charset=utf-8">
+<meta name="viewport" content="width=device-width,minimum-scale=1.0,maximum-scale=1.0,initial-scale=1.0,user-scalable=no">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="default">
+<meta name="msapplication-tap-highlight" content="no">
+<meta name="format-detection" content="telephone=no">
+<title>设置壁纸</title>
+<meta name="keywords" content="桌面壁纸">
+<meta name="description" content="主题，设置桌面壁纸"><link href="../tts/style.css?id=2" rel="stylesheet" type="text/css"/>
+</head><body><header><a href="javascript:history.back(-1);"></a><h1>设置桌面壁纸</h1></header>
+
+<form style="margin:8px;background:#fff;text-align:center;">
+<div class="description_title"><span></span></div>
+<div id="n" style="border:1px solid #eee;">
+<textarea name="path" cols="40" rows="5" id="path" style="border:0px solid #eee;
+border-radius:3px;-moz-border-radius:3px;width:100%;padding:5px;line-height:23px;" placeholder="图片地址..."></textarea>	
+</div>
+<div style="border:1px solid #eee;padding:12px;border-radius:8px;background:#56a845;color:#fff;margin:9px;" onclick="set()">确认设置</div>
+</div><br/>
+<div id="img">壁纸</div>
+
+<script>
+/*修改内容*/
+function xiugai(id,text){document.getElementById(id).innerHTML=text;}
+/*获value*/
+function $value(id){return document.getElementById(id).value;}
+
+text='<img src="'+localStorage.zhuomian+'" style="width:100%;" onerror="javascript:this.src=\'../../picture/bg.jpg\';"/>';
+xiugai("img",text);
+
+function set(){
+localStorage.zhuomian=$value("path");
+text='<img src="'+localStorage.zhuomian+'" style="width:100%;"/>';
+xiugai("img",text);
+}
+
+</script>
+
+</body></html>
