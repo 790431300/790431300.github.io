@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<!--STATUS OK-->
+<head>
+<meta http-equiv="Content-Type"
+content="text/html; charset=utf-8">
+<meta name="viewport" content="width=device-width,minimum-scale=1.0,maximum-scale=1.0,initial-scale=1.0,user-scalable=no">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="default">
+<meta name="msapplication-tap-highlight" content="no">
+<meta name="format-detection" content="telephone=no">
+<title>修改游戏金币-雷霆战机</title>
+<link href="../tts/style.css?id=2" rel="stylesheet" type="text/css"/>
+</head><body><header><a href="javascript:history.back(-1);"></a><h1>修改金币</h1></header>
+<form style="margin:8px;background:#fff;text-align:center;">
+<div class="description_title"><span></span></div>
+<div id="n" style="border:1px solid #eee;">
+<textarea name="path" cols="40" rows="5" id="path" style="border:0px solid #eee;
+border-radius:3px;-moz-border-radius:3px;width:100%;padding:5px;line-height:23px;" placeholder="游戏数据..."></textarea>	
+</div>
+<div style="border:1px solid #eee;padding:12px;border-radius:8px;background:#56a845;color:#fff;margin:9px;" onclick="set()">确认修改</div>
+</div><br/></div>
+<div id="img" style="padding:8px;text-align:left;word-wrap:break-word">修改金币数量，填写数字即可，其他别操作，出错不负责。<br/><br/>{<br/>
+"moneyNumber":金币数量,<br/>
+"ultNumber":0,<br/>
+"currentPlayHighestLevel":1,<br/>
+"abilityCurrentLevelNumber":[0,0,0,0,0]
+<br/>}
+</div>
+
+<script>
+/*修改内容*/
+function xiugai(id,text){document.getElementById(id).innerHTML=text;}
+/*获value*/
+function $value(id){return document.getElementById(id).value;}
+/*修改value*/
+function $gaivalue(id,text){return document.getElementById(id).value=text;}
+
+$gaivalue("path",localStorage.FirePlane_data);
+
+function set(){
+localStorage.FirePlane_data=$value("path");
+xiugai("img","已经修改为↓<br/>"+localStorage.FirePlane_data);
+}
+
+</script>
+
+</body></html>
