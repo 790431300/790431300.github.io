@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<!--STATUS OK-->
+<head>
+<meta http-equiv="Content-Type"
+content="text/html; charset=utf-8">
+<meta name="viewport" content="width=device-width,minimum-scale=1.0,maximum-scale=1.0,initial-scale=1.0,user-scalable=no">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="default">
+<meta name="msapplication-tap-highlight" content="no">
+<meta name="format-detection" content="telephone=no">
+<title>录音机</title>
+<meta name="keywords" content="录音机">
+<meta name="description" content="录音机"><link href="../tts/style.css?id=2" rel="stylesheet" type="text/css"/>
+</head><body><header><a href="javascript:history.back(-1);"></a><h1>录音机</h1></header>
+
+<div id="messages"></div>
+<div>
+<div style="padding:12px;">
+操作方法，你得先有声音才可以下载，所以第一步，点击开始录音。
+<br/><br/>
+<br/><br/>
+<audio id="audio" controls autoplay></audio>
+<br/><br/>
+<br/><br/>
+<div class="contrs">
+<input type="button" id="start" value="开始录音" onclick="startRecording()"/>
+<input type="button" value="下载录音" onclick="obtainRecord()"/>
+<input type="button" value="播放录音" onclick="send()"/>
+</div>
+<br/><br/>
+<div id="error">
+</div>
+
+</div>
+<div style="padding:12px">
+<e color="red">如果你想偷偷的录音，不想被别人知道，下面设置时间/秒，点击提交，会进入一个伪装看小说的界面，时间到了之后，自动下载录音保存录音到手机上。</e><br/><br/>
+<form action="article.html">
+时间:<input name="time" value="30"><br/><br/><input type="submit">
+</form>
+<br/><br/>
+<br/><br/>
+<br/><br/>
+</div>
+
+<script src="recoder.js"></script>
+<script src="main.js"></script>
+<script>
+</script>
+
+</body>
+</html>
