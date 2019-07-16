@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<!--STATUS OK-->
+<head>
+<meta http-equiv="Content-Type"
+content="text/html; charset=utf-8">
+<meta name="viewport" content="width=device-width,minimum-scale=1.0,maximum-scale=1.0,initial-scale=1.0,user-scalable=no">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="default">
+<meta name="msapplication-tap-highlight" content="no">
+<meta name="format-detection" content="telephone=no">
+<title>网络电视直播</title>
+<meta name="keywords" content="网络电视直播">
+<meta name="description" content="网络电视直播">
+<link href="../tts/style.css?id=2" rel="stylesheet" type="text/css"/>
+<style>body{background:#f4f4f4;}</style>
+</head><body>
+<header><a href="javascript:history.back(-1);"></a><h1>网络电视直播</h1></header>
+﻿<video id="video" width="100%" height="220px" controls="controls" autoplay="autoplay" src='https://w1live.livecdn.yicai.com/live/cbn.m3u8'></video>
+
+<script>
+function $(id){return document.getElementById(id);}
+function wo_get(variable){
+var query = window.location.search.substring(1);
+var vars = query.split("&");
+for (var i=0;i<vars.length;i++){
+var pair = vars[i].split("=");
+if(pair[0] == variable){return pair[1];}
+}
+return(false);
+}
+path=wo_get("path");
+if(path!==""){
+$("video").src=path;
+}
+</script>
+
+<div style="padding:12px">
+<div style="padding:12px;background:#eee;
+margin:8px;border-radius:8px;display:-webkit-box;display:-moz-box;display:box;margin:auto;margin-bottom:1px;display:block;-webkit-box-flex:1;-moz-box-flex:1;box-flex:1;line-height:23px;font-size:18px;padding:8px;border-right:0px inset #228366;word-break:break-all;white-space:pre-wrap;">
+网络电视直播，播放输入<br/>
+http://biniwan.com/games/video/path=视频地址
+</div>
+
+</body></html>
