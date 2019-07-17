@@ -17,11 +17,6 @@ content="text/html; charset=utf-8">
 <body id="body" style=" background:#000;height:100%;font-size:15px;color:#fff;padding:0px;margin:0;overflow:hidden;" onclick="location.href='index.html';">
 <canvas id="c"></canvas>
 <script>
-function woclose(){
-  window.opener=null;
-  window.open('','_self');
-  window.close();
-}woclose();
 var c = document.getElementById("c");
 var ctx = c.getContext("2d");
 //全屏
