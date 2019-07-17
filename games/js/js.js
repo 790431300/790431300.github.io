@@ -22,13 +22,14 @@ var str = str.replace("\n",'');
 var str = str.replace("\n",'');
 var ssh = ssh.replace("\n",'');
 var str = str.replace(ssh,'');
+
 switch(str)
 {
 case "hack":
 location.href="hack.html";
 return;
 case "exit":
-location.href="http://biniwan.com";
+location.href="../../";
 return;
 case "help":
 $("body").innerHTML="exit 退出终端<br/>hack 重新加载<br/>*暂无其他操作命令<br/>WO:#";
@@ -37,13 +38,23 @@ return;
 }
 try{
 $str=eval(str);
+
+if(typeof($str)==="undefined"){
+$("body").innerHTML="你输入的命令是：<br/>"+str+"<br/>WO:#";
+wof($("body"));
+return;
+}else{
+$("body").innerHTML=$str+"<br/>WO:#";
+wof($("body"));
+}
+
+
 }catch(e){
 $("body").innerHTML=e.name+":"+e.message+"<br/>*这是个错误提示！<br/>*获取帮助输入:help<br/>WO:#";
 wof($("body"));
 //alert(e.name+":"+e.message);
 }
-$("body").innerHTML=$str+"<br/>WO:#";
-wof($("body"));
+
 }
 }
 window.setInterval("ssh('body','WO:#');",1000);
