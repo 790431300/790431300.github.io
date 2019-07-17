@@ -13,33 +13,36 @@ content="text/html; charset=utf-8">
 <meta name="keywords" content="网络电视直播">
 <meta name="description" content="网络电视直播">
 <link href="../tts/style.css?id=2" rel="stylesheet" type="text/css"/>
-<style>body{background:#f4f4f4;}</style>
+<style>body{background:#f4f4f4;}
+#n{background:#fff;color:#000;}
+video{background:#000;}</style>
 </head><body>
 <header><a href="javascript:history.back(-1);"></a><h1>网络电视直播</h1></header>
-﻿<video id="video" width="100%" height="220px" controls="controls" autoplay="autoplay" src='https://w1live.livecdn.yicai.com/live/cbn.m3u8' poster="videobg.jpg"></video>
+﻿<video id="video" style="width:100%;height:200px" controls="controls" autoplay="autoplay" src='https://w1live.livecdn.yicai.com/live/cbn.m3u8' poster></video>
 
-<script>
-function $(id){return document.getElementById(id);}
-function wo_get(variable){
-var query = window.location.search.substring(1);
-var vars = query.split("&");
-for (var i=0;i<vars.length;i++){
-var pair = vars[i].split("=");
-if(pair[0] == variable){return pair[1];}
-}
-return(false);
-}
-path=wo_get("path");
-if(path!=""){
-$("video").src=path;
-}
-</script>
+<script src="js.js"></script>
+<br/><div style="margin:5px">
+<div id="n" style="border:1px solid #eee;">
+<a style="border-right:1px solid #eee;" onclick="sy('0')" id="sa">上一台</a>
+<a style="border-right:1px solid #eee;" onclick="sy('1')" id="sb">下一台</a>
+<a style="border-right:1px solid #eee;" onclick="sy('2')" id="sc">选台<e id="tvid">3</e></a>
+<a style="border-right:1px solid #eee;" onclick="sy('3')" id="sd">暂停</a>
+<a style="display:none" id="per">0</a>
+</div></div>
 
-<div style="padding:12px">
-<div style="padding:12px;background:#eee;
+<div style="padding:5px">
+<div style="padding:12px;background:#000;color:#fff;
 margin:8px;border-radius:8px;display:-webkit-box;display:-moz-box;display:box;margin:auto;margin-bottom:1px;display:block;-webkit-box-flex:1;-moz-box-flex:1;box-flex:1;line-height:23px;font-size:18px;padding:8px;border-right:0px inset #228366;word-break:break-all;white-space:pre-wrap;">
-网络电视直播，播放输入<br/>
-http://biniwan.com/games/video/path=视频地址
+电视台自选列表<br/>
+0,CCTV1中央<br/>
+1,CCTV6电视<br/>
+2,CCTV10科教<br/>
+3,上海财经<br/>
+4,湖南卫视<br/>
+5,CCTV2财经<br/>
+6,金鹰卡通<br/>
+其他自定义<br/><br/>
+说明:观看视频会产生GPRS流量，建议连接WIFI观看，目前只提供6个电视台，其他电视台自己寻找播放地址。<br/><br/>
 </div>
-
+<br/><br/>
 </body></html>
