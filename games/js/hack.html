@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+<!--STATUS OK-->
+<head>
+<meta http-equiv="Content-Type"
+content="text/html; charset=utf-8">
+<meta name="viewport" content="width=device-width,minimum-scale=1.0,maximum-scale=1.0,initial-scale=1.0,user-scalable=no">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="default">
+<meta name="msapplication-tap-highlight" content="no">
+<meta name="format-detection" content="telephone=no">
+<title>黑客帝国</title>
+<meta name="keywords" content="黑客帝国">
+<meta name="description" content="黑客帝国">
+<style>canvas {display: block;}</style>
+</head>
+<body id="body" style=" background:#000;height:100%;font-size:15px;color:#fff;padding:0px;overflow:hidden;" onclick="alert('66');">
+<canvas id="c"></canvas>
+<script>
+function woclose(){
+  window.opener=null;
+  window.open('','_self');
+  window.close();
+}woclose();
+var c = document.getElementById("c");
+var ctx = c.getContext("2d");
+//全屏
+c.height = document.body.scrollHeight*10;
+c.width = document.body.scrollWidth;
+//文字
+var txts = "0123456789";
+//转为数组
+txts = txts.split("");
+var font_size = 16;
+var columns = c.width/font_size;
+var drops = [];
+
+for(var x = 0; x < columns; x++)
+drops[x] = 1; 
+
+//输出文字
+function draw()
+{
+ctx.fillStyle = "rgba(0, 0, 0,0.05)";
+ctx.fillRect(0, 0, c.width, c.height);
+ctx.fillStyle = "#fff"; //文字颜色
+ctx.font = font_size + "px arial";
+
+for(var i = 0; i < drops.length; i++){
+var text = txts[Math.floor(Math.random()*txts.length)];
+ctx.fillText(text, i*font_size, drops[i]*font_size);
+if(drops[i]*font_size > c.height || Math.random() > 0.95)
+drops[i] = 0;
+drops[i]++;
+}
+}
+setInterval(draw,53);
+setTimeout(function(){
+location.href="index.html";
+},8000);
+</script>
+</body></html>

@@ -22,10 +22,23 @@ var str = str.replace("\n",'');
 var str = str.replace("\n",'');
 var ssh = ssh.replace("\n",'');
 var str = str.replace(ssh,'');
+switch(str)
+{
+case "hack":
+location.href="hack.html";
+return;
+case "exit":
+location.href="http://biniwan.com";
+return;
+case "help":
+$("body").innerHTML="exit 退出终端<br/>hack 重新加载<br/>*暂无其他操作命令<br/>WO:#";
+wof($("body"));
+return;
+}
 try{
 $str=eval(str);
 }catch(e){
-$("body").innerHTML=e.name+":"+e.message+"<br/>WO:#";
+$("body").innerHTML=e.name+":"+e.message+"<br/>*这是个错误提示！<br/>*获取帮助输入:help<br/>WO:#";
 wof($("body"));
 //alert(e.name+":"+e.message);
 }
