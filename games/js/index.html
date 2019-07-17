@@ -31,7 +31,8 @@ var str = str.replace(ssh,'');
 try{
 $str=eval(str);
 }catch(e){
-alert(e.name + ":" + e.message);
+$("body").innerHTML=e.name+":"+e.message;
+alert(e.name+":"+e.message);
 }
 $("body").innerHTML=$str+"<br/>WO:#";
 }
