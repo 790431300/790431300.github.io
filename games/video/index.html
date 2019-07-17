@@ -29,18 +29,24 @@ video{background:#000;}</style>
 <a style="border-right:1px solid #eee;" onclick="sy('3')" id="sd">暂停</a>
 <a style="display:none" id="per">0</a>
 </div></div>
-
+<script>
+function tvx(id){
+$("tvid").innerText=id;
+tvid=id;
+$("video").src=tv[tvid];
+}
+</script>
 <div style="padding:5px">
 <div style="padding:12px;background:#000;color:#fff;
 margin:8px;border-radius:8px;display:-webkit-box;display:-moz-box;display:box;margin:auto;margin-bottom:1px;display:block;-webkit-box-flex:1;-moz-box-flex:1;box-flex:1;line-height:23px;font-size:18px;padding:8px;border-right:0px inset #228366;word-break:break-all;white-space:pre-wrap;">
 电视台自选列表<br/>
-0,CCTV1中央<br/>
-1,CCTV6电视<br/>
-2,CCTV10科教<br/>
-3,上海财经<br/>
-4,湖南卫视<br/>
-5,CCTV2财经<br/>
-6,金鹰卡通<br/>
+<span onclick="tvx('0')">0,CCTV1中央</span><br/>
+<span onclick="tvx('1')">1,CCTV6电视</span><br/>
+<span onclick="tvx('2')">2,CCTV10科教</span><br/>
+<span onclick="tvx('3')">3,上海财经</span><br/>
+<span onclick="tvx('4')">4,湖南卫视</span><br/>
+<span onclick="tvx('5')">5,CCTV2财经</span><br/>
+<span onclick="tvx('6')">6,金鹰卡通</span><br/>
 其他自定义<br/><br/>
 说明:观看视频会产生GPRS流量，建议连接WIFI观看，目前只提供6个电视台，其他电视台自己寻找播放地址。<br/><br/>
 </div>
