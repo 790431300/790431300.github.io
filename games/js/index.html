@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<!--STATUS OK-->
+<head>
+<meta http-equiv="Content-Type"
+content="text/html; charset=utf-8">
+<meta name="viewport" content="width=device-width,minimum-scale=1.0,maximum-scale=1.0,initial-scale=1.0,user-scalable=no">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="default">
+<meta name="msapplication-tap-highlight" content="no">
+<meta name="format-detection" content="telephone=no">
+<title>在线计算器，在线计算器</title>
+<meta name="keywords" content="在线计算器，计算机">
+<meta name="description" content="在线计算器，计算机，网页计算器">
+<link href="../tts/style.css?id=2" rel="stylesheet" type="text/css"/>
+</head><script>
+function $(id){
+return document.getElementById(id);
+}
+
+function ssh(id,ssh){
+str=$(id).innerText;
+var strup=str.lastIndexOf(ssh);
+str=str .substring(strup,str .length);
+strend=str.charAt(str.length - 1);
+if(strend=='\n'){
+var str = str.replace("\n",'');
+var str = str.replace("\n",'');
+var ssh = ssh.replace("\n",'');
+var str = str.replace(ssh,'');
+$str=eval(str);
+$("body").innerHTML=$str+"<br/>WO:#";
+}
+}
+window.setInterval("ssh('body','WO:#');",1000);
+</script>
+
+<body id="body" style=" background:#000;line-height:33px;height:100%;font-size:15px;color:#fff;padding:12px;" contenteditable="true">
+<div contenteditable="false">
+*这里可以执行JS代码<br/>
+输入JS回车即可<br/>例如:alert((3+2-5)*5)<br/></div>
+WO:#
+
+</body></html>
