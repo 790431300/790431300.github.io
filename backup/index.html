@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html manifest="manifest/index.manifest">
 <!--STATUS OK-->
 <head>
 <meta http-equiv="Content-Type"
@@ -10,8 +10,7 @@ content="text/html; charset=utf-8">
 <meta name="msapplication-tap-highlight" content="no">
 <meta name="format-detection" content="telephone=no">
 <title>WOAPP,一个web可视化操作系统</title>
-<meta name="keywords" content="php,woapp,OS,操作系统,">
-<meta name="description" content="woapp一个网页版的操作系统，源码共享，随意扩展">
+<meta name="keywords" content="php,woapp,OS,操作系统"><meta name="description" content="woapp一个网页版的操作系统，树莓派必备，源码共享，随意扩展，无限拓展">
 <link href="style/hui.css" rel="stylesheet" type="text/css"/>
 <script src="script/hd.js"></script>
 <style>
@@ -38,6 +37,15 @@ vertical-align:top; overflow:hidden;}
 #focus .bd li a{ -webkit-tap-highlight-color:rgba(0, 0, 0, 0);}
 </style>
 <body class="H-height-100-percent" id="body">
+<script>
+function $(id){
+return document.getElementById(id);
+}
+if(localStorage.zhuomian){
+document.body.style.background="url("+localStorage.zhuomian+") #b8860b no-repeat fixed";document.body.style.backgroundSize="100%";
+document.body.style.backgroundPosition="center center";
+}
+</script>
 <div id="focus" class="focus">
 <div class="hd">
 <ul></ul>
@@ -47,7 +55,10 @@ vertical-align:top; overflow:hidden;}
 <li>
 <div id="hdli">
 <div class="H-display-table-cell H-float-left H-box-sizing-border-box H-width-avg-4 H-center-all H-padding-vertical-both-10"><div>
-<a class="H-icon H-display-block H-horizontal-center H-border-radius-12" href="http://baidu.com'"><img src="picture/baidu.jpg"></a><label class="H-display-block H-font-size-12 H-theme-font-color3 H-margin-vertical-top-3 H-text-align-center">百度搜索</label></div></div>
+<a class="H-icon H-display-block H-horizontal-center H-border-radius-12" href="http://baidu.com"><img src="picture/baidu.jpg"></a><label class="H-display-block H-font-size-12 H-theme-font-color3 H-margin-vertical-top-3 H-text-align-center">百度搜索</label></div></div>
+
+<div class="H-display-table-cell H-float-left H-box-sizing-border-box H-width-avg-4 H-center-all H-padding-vertical-both-10"><div>
+<a class="H-icon H-display-block H-horizontal-center H-border-radius-12" href="games/zhuomian"><img src="picture/zhuomian.jpg"></a><label class="H-display-block H-font-size-12 H-theme-font-color3 H-margin-vertical-top-3 H-text-align-center">桌面壁纸</label></div></div>
 <div class="H-display-table-cell H-float-left H-box-sizing-border-box H-width-avg-4 H-center-all H-padding-vertical-both-10"><div>
 <a class="H-icon H-display-block H-horizontal-center H-border-radius-12" href="https://github.com/790431300/woapp"><img src="picture/yuanma.jpg"></a><label class="H-display-block H-font-size-12 H-theme-font-color3 H-margin-vertical-top-3 H-text-align-center">项目源码</label></div></div>
 <div class="H-display-table-cell H-float-left H-box-sizing-border-box H-width-avg-4 H-center-all H-padding-vertical-both-10"><div>
@@ -56,6 +67,19 @@ vertical-align:top; overflow:hidden;}
 <a class="H-icon H-display-block H-horizontal-center H-border-radius-12" href="http://fanyi.baidu.com"><img src="picture/fanyi.jpg"></a><label class="H-display-block H-font-size-12 H-theme-font-color3 H-margin-vertical-top-3 H-text-align-center">百度翻译</label></div></div>
 <div class="H-display-table-cell H-float-left H-box-sizing-border-box H-width-avg-4 H-center-all H-padding-vertical-both-10"><div>
 <a class="H-icon H-display-block H-horizontal-center H-border-radius-12" href="games/tts"><img src="picture/tts.jpg"></a><label class="H-display-block H-font-size-12 H-theme-font-color3 H-margin-vertical-top-3 H-text-align-center">文字朗读</label></div></div>
+<div class="H-display-table-cell H-float-left H-box-sizing-border-box H-width-avg-4 H-center-all H-padding-vertical-both-10"><div>
+<a class="H-icon H-display-block H-horizontal-center H-border-radius-12" href="games/video"><img src="picture/video.jpg"></a><label class="H-display-block H-font-size-12 H-theme-font-color3 H-margin-vertical-top-3 H-text-align-center">电视TV</label></div></div>
+<div class="H-display-table-cell H-float-left H-box-sizing-border-box H-width-avg-4 H-center-all H-padding-vertical-both-10"><div>
+<a class="H-icon H-display-block H-horizontal-center H-border-radius-12" href="https://biniwan.com/games/luyin"><img src="picture/luyin.jpg"></a><label class="H-display-block H-font-size-12 H-theme-font-color3 H-margin-vertical-top-3 H-text-align-center">偷偷录音</label></div></div>
+<div class="H-display-table-cell H-float-left H-box-sizing-border-box H-width-avg-4 H-center-all H-padding-vertical-both-10"><div>
+<a class="H-icon H-display-block H-horizontal-center H-border-radius-12" href="/games/tuya"><img src="picture/tuya.jpg"></a><label class="H-display-block H-font-size-12 H-theme-font-color3 H-margin-vertical-top-3 H-text-align-center">涂鸦</label></div></div>
+<div class="H-display-table-cell H-float-left H-box-sizing-border-box H-width-avg-4 H-center-all H-padding-vertical-both-10"><div>
+<a class="H-icon H-display-block H-horizontal-center H-border-radius-12" href="/games/miaobiao"><img src="picture/miaobiao.jpg"></a><label class="H-display-block H-font-size-12 H-theme-font-color3 H-margin-vertical-top-3 H-text-align-center">秒表</label></div></div>
+<div class="H-display-table-cell H-float-left H-box-sizing-border-box H-width-avg-4 H-center-all H-padding-vertical-both-10"><div>
+<a class="H-icon H-display-block H-horizontal-center H-border-radius-12" href="/games/js/hack.html"><img src="picture/js.jpg"></a><label class="H-display-block H-font-size-12 H-theme-font-color3 H-margin-vertical-top-3 H-text-align-center">JS终端</label></div></div>
+
+<div class="H-display-table-cell H-float-left H-box-sizing-border-box H-width-avg-4 H-center-all H-padding-vertical-both-10"><div>
+<a class="H-icon H-display-block H-horizontal-center H-border-radius-12" href="/games/yantiao"><img src="picture/yantiao.jpg"></a><label class="H-display-block H-font-size-12 H-theme-font-color3 H-margin-vertical-top-3 H-text-align-center">预测未来</label></div></div>
 </div>
 </li>
 
@@ -63,28 +87,25 @@ vertical-align:top; overflow:hidden;}
 <div id="hdli">
 <div class="H-display-table-cell H-float-left H-box-sizing-border-box H-width-avg-4 H-center-all H-padding-vertical-both-10"><div>
 <a class="H-icon H-display-block H-horizontal-center H-border-radius-12" href="games/wzq"><img src="picture/wzq.jpg"></a><label class="H-display-block H-font-size-12 H-theme-font-color3 H-margin-vertical-top-3 H-text-align-center">五子棋</label></div></div>
+
+<div class="H-display-table-cell H-float-left H-box-sizing-border-box H-width-avg-4 H-center-all H-padding-vertical-both-10"><div>
+<a class="H-icon H-display-block H-horizontal-center H-border-radius-12" href="games/saiche"><img src="picture/saiche.jpg"></a><label class="H-display-block H-font-size-12 H-theme-font-color3 H-margin-vertical-top-3 H-text-align-center">赛车</label></div></div>
+
+<div class="H-display-table-cell H-float-left H-box-sizing-border-box H-width-avg-4 H-center-all H-padding-vertical-both-10"><div>
+<a class="H-icon H-display-block H-horizontal-center H-border-radius-12" href="games/feiji"><img src="picture/feiji.jpg"></a><label class="H-display-block H-font-size-12 H-theme-font-color3 H-margin-vertical-top-3 H-text-align-center">雷霆战机</label></div></div>
+
+<div class="H-display-table-cell H-float-left H-box-sizing-border-box H-width-avg-4 H-center-all H-padding-vertical-both-10"><div>
+<a class="H-icon H-display-block H-horizontal-center H-border-radius-12" href="games/xsaiche"><img src="picture/xsaiche.jpg"></a><label class="H-display-block H-font-size-12 H-theme-font-color3 H-margin-vertical-top-3 H-text-align-center">X赛车</label></div></div>
+<div class="H-display-table-cell H-float-left H-box-sizing-border-box H-width-avg-4 H-center-all H-padding-vertical-both-10"><div>
+<a class="H-icon H-display-block H-horizontal-center H-border-radius-12" href="games/data/feiji.html"><img src="picture/money.jpg"></a><label class="H-display-block H-font-size-12 H-theme-font-color3 H-margin-vertical-top-3 H-text-align-center">充值开挂</label></div></div>
 </div>
 </li>
-
 </div>
 </div>
 
 <script type="text/javascript">
-function $(id){
-return document.getElementById(id);
-}
-TouchSlide({
-slideCell:"#focus",
-titCell:".hd ul",
-mainCell:".bd ul",
-effect:"left",
-autoPlay:false,//自动播放
-autoPage:true, //自动分页
-});
-$("focus").style.height=document.body.scrollHeight+"px";
-$("hdli").style.height=document.body.scrollHeight+"px";
-$("html").innerHTML=$("body").innerHTML;
+TouchSlide({slideCell:"#focus",titCell:".hd ul",mainCell:".bd ul",
+effect:"left",defaultIndex:0,autoPlay:false,autoPage:true,});$("focus").style.height=document.body.scrollHeight+"px";$("hdli").style.height=document.body.scrollHeight+"px";$("html").innerHTML=$("body").innerHTML;
 </script>
-
 </body>
 </html>
