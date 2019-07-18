@@ -23,6 +23,8 @@ CACHE:
 ../picture/yuanma.jpg
 ../picture/zhuomian.jpg
 ../picture/yantiao.jpg
+../tts/style.css
+../games/data/feiji.html
 
 NETWORK:
 //要更新的文件
