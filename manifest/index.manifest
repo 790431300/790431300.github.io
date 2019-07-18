@@ -1,5 +1,5 @@
 CACHE MANIFEST
-#v0.15
+#v0.16
 
 CACHE:
 ../style/hui.css
@@ -23,8 +23,6 @@ CACHE:
 ../picture/yuanma.jpg
 ../picture/zhuomian.jpg
 ../picture/yantiao.jpg
-../tts/style.css
-../games/data/feiji.html
 
 NETWORK:
 //要更新的文件
