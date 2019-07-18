@@ -2,9 +2,8 @@ CACHE MANIFEST
 #v0.1
 
 CACHE:
-recoder.js
-main.js
-../tts/style.css
+../../wo.css
+../../Hui.ttf
 
 NETWORK:
 //要更新的文件

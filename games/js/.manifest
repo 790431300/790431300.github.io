@@ -1,10 +1,9 @@
 CACHE MANIFEST
-#v0.1
+#v0.11
 
 CACHE:
-recoder.js
-main.js
-../tts/style.css
+../ttts/style.css
+js.js
 
 NETWORK:
 //要更新的文件

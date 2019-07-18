@@ -2,12 +2,8 @@ CACHE MANIFEST
 #v0.11
 
 CACHE:
-tts/style.css?id=2
-../style/wo.css
-../style/Hui.ttf
-miaobiao/miaobiao.ttf
-video/js.js
-js/js.js
+../tts/style.css
+js.js
 
 NETWORK:
 //要更新的文件
