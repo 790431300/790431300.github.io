@@ -1,0 +1,12 @@
+CACHE MANIFEST
+#v0.1
+
+CACHE:
+recoder.js
+main.js
+
+NETWORK:
+//要更新的文件
+
+FALLBACK:
+/ /manifest/404.html
