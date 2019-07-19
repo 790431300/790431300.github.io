@@ -27,7 +27,7 @@ var str = str.replace("\n",'');
 var ssh = ssh.replace("\n",'');
 var str = str.replace(ssh,'');
 
-switch(str){case "hack":location.href="hack.html";return;case "exit":location.href="../../";return;case "help":$("body").innerHTML="exit 退出终端<br/>hack 重新加载<br/>baidu关键词 /搜索引擎<br/>href网址 /网络跳转<br/>*暂无其他操作命令<br/>WO:#";wof($("body"));return;case "date":$("body").innerHTML=wo_date()+"<br/>WO:#";wof($("body"));return;}
+switch(str){case "hack":location.href="hack.html";return;case "exit":location.href="../../";return;case "help":$("body").innerHTML="exit 退出终端<br/>date 获取当前时间<br/>baidu关键词 /搜索引擎<br/>href网址 /网络跳转<br/>*暂无其他操作命令<br/>WO:#";wof($("body"));return;case "date":$("body").innerHTML=wo_date()+"<br/>WO:#";wof($("body"));return;}
 if(str.slice(0,5)==="baidu"){var word=str.slice(5);$("body").innerHTML="*正在搜索："+word+"<br/>WO:#";wof($("body"));location.href="https://m.baidu.com/s?word="+word;return;
 }else if(str.slice(0,4)==="href"){
 var word=str.slice(4);$("body").innerHTML="*正在跳转："+word+"<br/>WO:#";wof($("body"));location.href=word;return;}
