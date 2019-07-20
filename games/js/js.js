@@ -32,7 +32,7 @@ if(str.slice(0,5)==="baidu"){var word=str.slice(5);$("body").innerHTML="*正在�
 }else if(str.slice(0,4)==="href"){
 var word=str.slice(4);$("body").innerHTML="*正在跳转："+word+"<br/>WO:#";wof($("body"));location.href=word;return;
 }else if(str.slice(0,6)==="youlai"){
-var word=str.slice(4);$("body").innerHTML="*有来搜索："+word+"<br/>WO:#";wof($("body"));location.href="https://m.youlai.cn/cse/search?q="+word;return;}
+var word=str.slice(6);$("body").innerHTML="*有来医生："+word+"<br/>WO:#";wof($("body"));location.href="https://m.youlai.cn/cse/search?q="+word;return;}
 
 
 try{
