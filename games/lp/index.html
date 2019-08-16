@@ -1,0 +1,92 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8"><meta name="viewport" content="maximum-scale=1.0,minimum-scale=1.0,user-scalable=0,width=device-width,initial-scale=1.0" />
+<meta name="format-detection" content="telephone=no,email=no,date=no,address=no">
+<title>罗盘-yinmouxue.com</title>
+<link rel="stylesheet" href="../../style/hui.css" media="screen" type="text/css">
+<style>
+body{padding:0;margin:0;overflow-x:hidden;}
+#image{width:100%;padding:0;margin:0;text-align:center;}
+#img{width:80%;margin:8px;}
+</style>
+</head>
+<body class="H-theme-background-color3">
+<header class="H-header H-theme-background-color3" id="header"><span class="H-icon H-position-relative H-display-inline-block H-float-left H-vertical-middle H-theme-font-color-white H-padding-horizontal-left-5 H-z-index-100" onclick="window.history.go(-1);"><i class="H-iconfont H-icon-arrow-left H-font-size-18 H-vertical-middle"></i></span><div class="H-header-title H-center-all H-font-size-18 H-text-show-row-1 H-theme-font-color-white H-position-absolute H-width-100-percent" id="text">
+先后天罗盘</div></header>
+<div id="image" class="H-theme-background-color3">
+<img src="image/jiantou.png" style="width:24px;">
+<br/>
+<img src="image/2.png" id="img">
+</div>
+<div style="padding:16px;color:#fff;">
+<span id="alpha"></span>
+<script>
+function $(id){return document.getElementById(id);}
+if(window.DeviceOrientationEvent){
+window.addEventListener('deviceorientation',function (event){
+alpha = event.alpha,
+beta = event.beta,
+gamma = event.gamma;
+
+$("img").style.transform="rotateZ("+alpha+"deg)";
+$("img").style.transform="rotateZ("+alpha+"deg)";
+
+if(beta>22 || beta<-16 || gamma>22 || gamma<-22){
+$("text").innerText="请把手机放平";
+}else{
+var $alpha=360-alpha;
+switch(true){
+case $alpha>337.5 || $alpha<22.5:text="朝北";
+break;
+case $alpha>22.5 && $alpha<67.5:text="朝东北";
+break;
+case $alpha>67.5 && $alpha<112.5:text="朝东";
+break;
+case $alpha>112.5 && $alpha<157.5:text="朝东南";
+break;
+case $alpha>157.5 && $alpha<202.5:text="朝南";
+break;
+case $alpha>202.5 && $alpha<247.5:text="朝西南";
+break;
+case $alpha>247.5 && $alpha<292.5:text="朝西";
+break;
+case $alpha>292.5 && $alpha<337.5:text="朝西北";
+break;
+//default:text = "北";
+}
+$("text").innerText=text;
+$("alpha").innerText=$alpha;
+}
+},false);
+
+}else{
+document.querySelector('body').innerText = '你的浏览器不支持陀螺仪';
+}
+</script>
+
+<br/>
+八卦图是什么？<br/>
+八卦图是用来描述宇宙的。<br/>
+前后，左右，上下称为宇，过去，现在，未来称为宙。<br/>
+从内开始，第一圈是宙轴，描述空间方向，人们常见的就只有三维空间里的一维，（北，东北，东，东南，南，西南，西，西北）八个方向，共360℃，
+每方45℃<br/>
+正北方为0℃，神奇的事发生了，
+<br/>337=13=4=北
+<br/>22=4=东北
+<br/>67=13=4=东
+<br/>112=4=东南
+<br/>157=13=4=南
+<br/>202=4=西南
+<br/>247=13=4=西
+<br/>292=13=4=西北
+<br/>13代表黑暗。4代表光明，发现黑暗有5，光明有3，67代表东方，唯一的2位加起来等于13的数，东方有太阳升起，黑暗被照亮，黑暗数5-1=4，光明数3+1=4，
+下午太阳到西方变白，东方变黑，刚好平衡。
+<br/><br/>
+第二，三，四……圈代表宙轴，时间<br/>
+每一轴都会同步宇宙的变化而转动，秒，分，时，天，月，季，年，甲子，以及宇宙星体运行影响给地球带来的灾难，天象奇观，宇宙变化八卦图就会变化转动，还有其他轴能预测过去现在未来，因为八卦图已经容纳了宇宙，整个四维空间，化繁为简。<br/><br/>
+其他圈轴代表某些特殊含义，比如预测<br/><br/>完整的八卦运行图开发需要资金，所以只能展示上面的这一部分。<br/>想看完整版可投资合作，加QQ:790431300<br/>
+</div>
+
+
+</body></html>
