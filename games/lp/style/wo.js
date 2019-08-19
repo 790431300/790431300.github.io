@@ -1,10 +1,10 @@
 function $(id){return document.getElementById(id);}
 function t(){var d=new Date();var y=d.getFullYear();var m=d.getMonth()+1;var ds=d.getDate();if(ds <=9){ds='0'+ds;}var h=d.getHours();if(h <=9){h='0'+h;}var f=d.getMinutes();if(f<=9){f='0'+f;}var s=d.getSeconds();if(s<=9){s='0'+s;}
-var days=d.getDay();ty=Math.round(0.25*(h*60+f)-15);
+var days=d.getDay();ty=Number(0.25*(h*60+f)-15);
 $("t").style.transform="rotateZ(-"+ty+"deg)";
 if(h>12){$("img").src="image/2.png";}
 var jd=100-((1440-((h*60)+f))/1440)*100;
-var jd=Math.round(jd);
+var jd=Number(jd);
 $("jd").style.width=jd+"%";
 $("ti").innerHTML ='<br/>'+y+'-'+m+'-'+ds+' '+h+':'+f+':'+s+' 星期'+days+'<br/>今日的时间已使用'+jd.toFixed(0)+'%';
 }
