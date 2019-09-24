@@ -1,0 +1,36 @@
+<div class="H-border-vertical-both-after H-theme-background-color-white" style="margin:8px 8px 8px 8px;"><table class="H-table H-table-fixed H-theme-background-color-white H-border-vertical-top-after H-border-horizontal-left-after"><thead><tr><th class="H-padding-10 H-vertical-align-middle H-font-size-15 H-font-weight-500 H-theme-background-color-ccc H-border-vertical-bottom-after H-border-horizontal-right-after" style="width:15%;">名称</th><th class="H-padding-10 H-vertical-align-middle H-font-size-15 H-font-weight-500 H-theme-background-color-ccc H-border-vertical-bottom-after H-border-horizontal-right-after" style="width:85%;">解释</th></tr></thead>
+<tbody>
+<tr><td class="H-padding-10 H-vertical-align-middle H-font-size-14 H-border-vertical-bottom-after H-border-horizontal-right-after"><span class="H-display-inline-block H-padding-horizontal-both-5">卦图</span></td><td class="H-padding-10 H-vertical-align-middle H-font-size-14 H-border-vertical-bottom-after H-border-horizontal-right-after"><img src="64gua/969669.gif">，卦号：969669</td></tr>
+</tbody></table></div>
+
+<div class="H-border-vertical-both-after H-theme-background-color-white" style="margin:8px 8px 32px 8px;padding:8px;white-space:pre-wrap;word-break:break-all;">
+    第二十二卦 贲 山火贲 艮上离下
+
+﻿    贲：亨。小利有所往。彖曰：贲，亨；柔来而文刚，故亨。分刚上而文柔，故小利有攸往。天文也；文明以止，人文也。观乎天文，以察时变；观乎人文，以化成天下。象曰：山下有火，贲；君子以明庶政，无敢折狱。
+
+    初九：贲其趾，舍车而徒。
+
+    象曰：舍车而徒，义弗乘也。
+
+    六二：贲其须。
+
+    象曰：贲其须，与上兴也。
+
+    九三：贲如濡如，永贞吉。
+
+    象曰：永贞之吉，终莫之陵也。
+
+    六四：贲如皤如，白马翰如，匪寇婚媾。
+
+    象曰：六四，当位疑也。匪寇婚媾，终无尤也。
+
+    六五：贲于丘园，束帛戋戋，吝，终吉。
+
+    象曰：六五之吉，有喜也。
+
+    上九：白贲，无咎。
+
+    象曰：白贲无咎，上得志也。
+------------
+
+</div>

@@ -1,0 +1,13 @@
+/*搜索*/
+form,input{margin:0;padding:0;}
+form{height:38px;text-align:center;margin:0;padding:0px;}
+.input{height:100%;font-size:15px;border:none;box-sizing: border-box;-webkit-box-sizing: border-box;-webkit-box-shadow: 0 1px 1px 0px rgba(50,50,50,.1);border-radius:1px;background:#fff;padding:5px;}
+#text{width:70%;height:100%;vertical-align:middle;overflow:hidden;clip:rect(0px,0px,22px,0px);color:#454546;}
+#sub{width:23%;color:#fff;height:100%;vertical-align:middle;overflow:hidden;clip:rect(0px,0px,22px,0px);background:#333;}
+
+.ac{background:#fff;color:#acacac;text-align:center;font-size:14px;padding:12px 0 12px 0;}
+.ac p{line-height:18px}
+.ac p a{text-decoration:none;color:#366}
+#footer #foot{margin-top:7px;text-align:center;}
+#footer #foot p .sp{padding:0 7px;}
+#footer #foot p a{color:#444}

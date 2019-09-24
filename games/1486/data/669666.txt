@@ -1,0 +1,36 @@
+<div class="H-border-vertical-both-after H-theme-background-color-white" style="margin:8px 8px 8px 8px;"><table class="H-table H-table-fixed H-theme-background-color-white H-border-vertical-top-after H-border-horizontal-left-after"><thead><tr><th class="H-padding-10 H-vertical-align-middle H-font-size-15 H-font-weight-500 H-theme-background-color-ccc H-border-vertical-bottom-after H-border-horizontal-right-after" style="width:15%;">名称</th><th class="H-padding-10 H-vertical-align-middle H-font-size-15 H-font-weight-500 H-theme-background-color-ccc H-border-vertical-bottom-after H-border-horizontal-right-after" style="width:85%;">解释</th></tr></thead>
+<tbody>
+<tr><td class="H-padding-10 H-vertical-align-middle H-font-size-14 H-border-vertical-bottom-after H-border-horizontal-right-after"><span class="H-display-inline-block H-padding-horizontal-both-5">卦图</span></td><td class="H-padding-10 H-vertical-align-middle H-font-size-14 H-border-vertical-bottom-after H-border-horizontal-right-after"><img src="64gua/669666.gif">，卦号：669666</td></tr>
+</tbody></table></div>
+
+<div class="H-border-vertical-both-after H-theme-background-color-white" style="margin:8px 8px 32px 8px;padding:8px;white-space:pre-wrap;word-break:break-all;">
+    第十五卦 谦 地山谦 坤上艮下
+
+﻿    谦：亨，君子有终。彖曰：谦，亨，天道下济而光明，地道卑而上行。天道亏盈而益谦，地道变盈而流谦，鬼神害盈而福谦，人道恶盈而好谦。谦尊而光，卑而不可逾，君子之终也。象曰：地中有山，谦；君子以裒多益寡，称物平施。
+
+    初六：谦谦君子，用涉大川，吉。
+
+    象曰：谦谦君子，卑以自牧也。
+
+    六二：鸣谦，贞吉。
+
+    象曰：鸣谦贞吉，中心得也。
+
+    九三：劳谦君子，有终吉。
+
+    象曰：劳谦君子，万民服也。
+
+    六四：无不利，撝谦。
+
+    象曰：无不利，撝谦；不违则也。
+
+    六五：不富，以其邻，利用侵伐，无不利。
+
+    象曰：利用侵伐，征不服也。
+
+    上六：鸣谦，利用行师，征邑国。
+
+    象曰：鸣谦，志未得也。可用行师，征邑国也。
+------------
+
+</div>

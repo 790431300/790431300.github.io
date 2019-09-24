@@ -1,0 +1,85 @@
+<!doctype html><html><head><meta charset="utf-8"><meta name="viewport" content="maximum-scale=1.0,minimum-scale=1.0,user-scalable=0,width=device-width,initial-scale=1.0" /><meta name="format-detection" content="telephone=no,email=no,date=no,address=no"><title>大衍筮法</title>
+<link href="../style/style.css" rel="stylesheet" type="text/css" />
+<link href="../../../style/hui.css" rel="stylesheet" type="text/css" />
+<style>.y{display:none;}.x{display:auto;}</style>
+</head><body>
+<header class="H-header H-theme-background-color3" id="header"><a href="JavaScript:history.back();"><span class="H-icon H-position-relative H-display-inline-block H-float-left H-vertical-middle H-theme-font-color-white H-padding-horizontal-left-5 H-z-index-100"><i class="H-iconfont H-icon-arrow-left H-font-size-18 H-vertical-middle"></i><label class="H-display-block H-vertical-middle H-font-size-15">返回</label></span></a><div class="H-header-title H-center-all H-font-size-18 H-text-show-row-1 H-theme-font-color-white H-position-absolute H-width-100-percent">大衍筮法</div></header>
+
+<div class="wid mtop10 clearfix" id="topclass"><br/>
+<form method="GET" action="../jiegua.html" id="form"><input type="text" name="id" placeholder="输入卦号" class="input" id="text" value=""><input id="sub" value="解卦" type="submit" name="sub" onclick="tishi" class="input">
+</form></div>
+<div style="margin:3px">
+<div class="H-border-vertical-both-after H-theme-background-color-white" style="margin:8px 10px 9px 10px;padding:8px;white-space:pre-wrap;word-break: break-all;text-align:center;" id="gua"><div style="text-align:left;">大衍筮法计算机版本，以前用大衍筮法预测非常麻烦，至少半个小时才得到一个卦，现在用计算机来计算，只需要3秒种，窥探天机前请先沐浴，找个安静的地方，心中想着未来想要知道的事，点击下方↓按钮即可。</div></div>
+<script>
+function $(id){return document.getElementById(id);}
+function yao($shu){
+return Math.floor(Math.random()*$shu+1);
+}
+//奇
+function ji($shu){
+while($shu){
+if($shu<=4){
+return $shu;
+break;
+}
+$shu=$shu-4;
+}}
+
+//天地之数50
+$tiandi=50;
+//无极之数
+$wuji=$tiandi-1;
+
+
+function yaoci($wuji){
+//阳数
+$yang=yao($wuji);
+//阴数
+$yin=$wuji-$yang;
+if($yang>$yin){
+$yang=$yang-1;
+}else{
+$yin=$yin-1;
+}
+//阳奇数
+$yang0=ji($yang);
+//阴奇数
+$yin0=ji($yin);
+return $yang0+$yin0+1;
+}
+function gua($wuji){
+$a=yaoci($wuji);
+$yy1=$wuji-$a;
+$b=yaoci($yy1);
+$yy2=$yy1-$b;
+$c=yaoci($yy2);
+return $yy2-$c;
+}
+function tianji(){
+$yao1=gua($wuji)/4;
+$yao2=gua($wuji)/4;
+$yao3=gua($wuji)/4;
+$yao4=gua($wuji)/4;
+$yao5=gua($wuji)/4;
+$yao6=gua($wuji)/4;
+
+tex=$yao6+'<br/>'+$yao5+'<br/>'+$yao4+'<br/>'+$yao3+'<br/>'+$yao2+'<br/>'+$yao1;
+str=tex.replace(/6/g,"6 ▅▅　▅▅ 老阴６");
+str=str.replace(/7/g,"7 ▅▅▅▅▅ 少阳９");
+str=str.replace(/8/g,"8 ▅▅　▅▅ 少阴６");
+str=str.replace(/9/g,"9 ▅▅▅▅▅ 老阳９");
+if(tex.search("NaN")!=-1){
+str="偷窥天机失败，请重新偷窥！";
+}
+$("gua").innerHTML=str;
+}
+</script>
+<div style="margin:10px">
+<button class="H-button H-width-100-percent  H-font-size-15 H-outline-none H-padding-vertical-both-12 H-padding-horizontal-both-20 H-theme-background-color9 H-theme-font-color-white H-theme-border-color9 H-theme-border-color9-click H-theme-background-color9-click H-theme-font-color9-click H-border-radius-3"  onclick="tianji();">点击这里窥探天机</button></div>
+
+<div class="H-border-vertical-both-after H-theme-background-color-white" style="margin:10px;padding:8px;">
+大衍之数五十，其用四十有九。分而为二以象两，挂一以象三，揲之以四以象四时，归奇于扐以象闰；五岁再闰，故再扐而后挂。<br/><br/>卦号是从下往上获取的。
+</div>
+</div>
+<div id="footer">
+<div id="foot" class="ac" style="position:relative"><p><a href="../index.html">首页</a><span class="sp">|</span>触屏版<span class="sp">|</span><a href="../book/index.html?id=guanyu">关于</a></p><p>©2015 因谋学(yinmouxue.com)</p></div></div>

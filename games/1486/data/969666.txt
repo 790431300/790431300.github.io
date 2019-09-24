@@ -1,0 +1,36 @@
+<div class="H-border-vertical-both-after H-theme-background-color-white" style="margin:8px 8px 8px 8px;"><table class="H-table H-table-fixed H-theme-background-color-white H-border-vertical-top-after H-border-horizontal-left-after"><thead><tr><th class="H-padding-10 H-vertical-align-middle H-font-size-15 H-font-weight-500 H-theme-background-color-ccc H-border-vertical-bottom-after H-border-horizontal-right-after" style="width:15%;">名称</th><th class="H-padding-10 H-vertical-align-middle H-font-size-15 H-font-weight-500 H-theme-background-color-ccc H-border-vertical-bottom-after H-border-horizontal-right-after" style="width:85%;">解释</th></tr></thead>
+<tbody>
+<tr><td class="H-padding-10 H-vertical-align-middle H-font-size-14 H-border-vertical-bottom-after H-border-horizontal-right-after"><span class="H-display-inline-block H-padding-horizontal-both-5">卦图</span></td><td class="H-padding-10 H-vertical-align-middle H-font-size-14 H-border-vertical-bottom-after H-border-horizontal-right-after"><img src="64gua/969666.gif">，卦号：969666</td></tr>
+</tbody></table></div>
+
+<div class="H-border-vertical-both-after H-theme-background-color-white" style="margin:8px 8px 32px 8px;padding:8px;white-space:pre-wrap;word-break:break-all;">
+    第三十六卦 明夷 地火明夷 坤上离下
+
+﻿    明夷：利艰贞。彖曰：明入地中，明夷。内文明而外柔顺，以蒙大难，文王以之。利艰贞，晦其明也，内难而能正其志，箕子以之。象曰：明入地中，明夷；君子以莅众，用晦而明。
+
+    初九：明夷于飞，垂其翼。君子于行，三日不食，有攸往，主人有言。
+
+    象曰：君子于行，义不食也。
+
+    六二：明夷，夷于左股，用拯马壮，吉。
+
+    象曰：六二之吉，顺以则也。
+
+    九三：明夷于南狩，得其大首，不可疾贞。
+
+    象曰：南狩之志，乃大得也。
+
+    六四：入于左腹，获明夷之心，出于门庭。
+
+    象曰：入于左腹，获心意也。
+
+    六五：箕子之明夷，利贞。
+
+    象曰：箕子之贞，明不可息也。
+
+    上六：不明晦，初登于天，后入于地。
+
+    象曰：初登于天，照四国也。后入于地，失则也。
+------------
+
+</div>

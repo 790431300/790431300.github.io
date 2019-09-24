@@ -1,0 +1,36 @@
+<div class="H-border-vertical-both-after H-theme-background-color-white" style="margin:8px 8px 8px 8px;"><table class="H-table H-table-fixed H-theme-background-color-white H-border-vertical-top-after H-border-horizontal-left-after"><thead><tr><th class="H-padding-10 H-vertical-align-middle H-font-size-15 H-font-weight-500 H-theme-background-color-ccc H-border-vertical-bottom-after H-border-horizontal-right-after" style="width:15%;">名称</th><th class="H-padding-10 H-vertical-align-middle H-font-size-15 H-font-weight-500 H-theme-background-color-ccc H-border-vertical-bottom-after H-border-horizontal-right-after" style="width:85%;">解释</th></tr></thead>
+<tbody>
+<tr><td class="H-padding-10 H-vertical-align-middle H-font-size-14 H-border-vertical-bottom-after H-border-horizontal-right-after"><span class="H-display-inline-block H-padding-horizontal-both-5">卦图</span></td><td class="H-padding-10 H-vertical-align-middle H-font-size-14 H-border-vertical-bottom-after H-border-horizontal-right-after"><img src="64gua/966969.gif">，卦号：966969</td></tr>
+</tbody></table></div>
+
+<div class="H-border-vertical-both-after H-theme-background-color-white" style="margin:8px 8px 32px 8px;padding:8px;white-space:pre-wrap;word-break:break-all;">
+    第二十一卦 噬嗑 火雷噬嗑 离上震下
+
+﻿    噬嗑：亨。利用狱。彖曰：颐中有物，曰噬嗑，噬嗑而亨。刚柔分，动而明，雷电合而章。柔得中而上行，虽不当位，利用狱也。象曰：雷电噬嗑；先王以明罚敕法。
+
+    初九：履校灭趾，无咎。
+
+    象曰：履校灭趾，不行也。
+
+    六二：噬肤灭鼻，无咎。
+
+    象曰：噬肤灭鼻，乘刚也。
+
+    六三：噬腊肉，遇毒；小吝，无咎。
+
+    象曰：遇毒，位不当也。
+
+    九四：噬乾胏，得金矢，利艰贞，吉。
+
+    象曰：利艰贞吉，未光也。
+
+    六五：噬乾肉，得黄金，贞厉，无咎。
+
+    象曰：贞厉无咎，得当也。
+
+    上九：何校灭耳，凶。
+
+    象曰：何校灭耳，聪不明也。
+------------
+
+</div>

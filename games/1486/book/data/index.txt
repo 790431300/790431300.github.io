@@ -1,0 +1,62 @@
+占卜教程{沃数据}<div class="H-padding-vertical-top-8"></div>
+<div class="H-margin-horizontal-both-10">
+<a href="?id=0" class="H-flexbox-horizontal H-theme-background-color-white H-border-vertical-bottom-after"><div class="H-padding-vertical-both-10"><img src="picture/yj.jpg" class="H-display-block H-margin-horizontal-left-10" style="width: 70px; height: 70px;" /></div><div class="H-flex-item H-padding-10"><div class="H-flexbox-horizontal"><div class="H-flex-item H-font-weight-500 H-text-show-row-1">为什么要学易？<span class="H-theme-background-color-red H-theme-font-color-white H-font-size-15 ">热门</span></div>
+<div class="H-vertical-middle"><span class="H-font-size-15 H-theme-font-color-red ">阅读<label class="H-theme-font-color-999 H-font-size-15">999+</label></span></div></div>
+<div class="H-font-size-12 H-theme-font-color-999 H-text-show-row-2 H-margin-vertical-top-2">学易可以做什么？得到什么？</div><div class="H-font-size-12 H-theme-font-color-999 H-text-show-row-2 H-margin-vertical-top-2">有什么理由？</div></div></a></div>
+
+<div class="H-padding-vertical-top-8"></div>
+<div class="H-margin-horizontal-both-8 H-margin-vertical-bottom-8"><div class="H-flexbox-horizontal H-box-sizing-border-box"><div class="H-flex-item H-flexbox-horizontal H-box-sizing-border-box H-padding-10 H-theme-background-color-white H-margin-horizontal-right-5 H-text-show-row-1 H-touch-active" onclick="location.href='?id=wuxing'"><div class="H-overflow-hidden H-vertical-middle"><img src="picture/wuxing.png" class="H-display-block" style="width: 60px; height: 60px;" /></div>
+<div class="H-flex-item H-text-show-row-1 H-padding-horizontal-both-5"><span class="H-display-block H-text-show-row-1 H-font-size-13">五行</span><span class="H-display-block H-font-weight-500 H-font-size-12 H-theme-font-color-999 H-text-show-row-1">金木水火土</span>
+<span class="H-display-block H-text-show-row-1 H-font-size-12 H-theme-font-color-red">免费阅读</span></div></div>
+
+<div class="H-flex-item H-flexbox-horizontal H-box-sizing-border-box H-padding-10 H-theme-background-color-white  H-text-show-row-1 H-touch-active" onclick="location.href='?id=6'">
+<div class="H-overflow-hidden H-vertical-middle"><img src="picture/12.jpg" class="H-display-block" style="width: 60px; height: 60px;" /></div>
+<div class="H-flex-item H-text-show-row-1 H-padding-horizontal-both-5">
+<span class="H-display-block H-text-show-row-1 H-font-size-13">天干地支</span>
+<span class="H-display-block H-font-weight-500 H-font-size-12 H-theme-font-color-999 H-text-show-row-1">子丑寅卯……</span><span class="H-display-block H-text-show-row-1 H-font-size-12 H-theme-font-color-red">免费阅读</span>
+</div></div></div></div>
+<div class="H-margin-horizontal-both-8">
+<div class="H-flexbox-horizontal H-border-vertical-bottom-after H-theme-background-color-white">
+<div class="H-flex-item H-padding-10">
+<div class="H-font-size-14 H-theme-font-color-999 H-text-show-row-2 H-margin-vertical-top-2">限时免费</div></div></div>
+<a href="?id=1" class="H-flexbox-horizontal H-theme-background-color-white H-border-vertical-bottom-after"><div class="H-padding-vertical-both-10 H-center-all"><img src="picture/xinjing.jpg" alt="" title="" class="H-display-block H-margin-horizontal-left-10 " style="width: 70px; height: 70px;" /></div>
+<div class="H-flex-item H-padding-10">
+<div class="H-flexbox-horizontal">
+<div class="H-flex-item H-font-weight-500 H-text-show-row-1">般若波罗蜜多心经<span class="H-theme-background-color-red H-theme-font-color-white H-font-size-12 ">限时免费</span></div>
+<div class="H-vertical-middle"><span class="H-font-size-12 H-theme-font-color-red ">0.00<label class="H-theme-font-color-999 H-font-size-12">元</label></span></div></div>
+<div class="H-font-size-12 H-theme-font-color-999 H-text-show-row-1 H-margin-vertical-top-2">读心经，练心法</div><div class="H-font-size-12 H-theme-font-color-999 H-text-show-row-1 H-margin-vertical-top-2"><i class="H-iconfont H-icon-star-fill H-theme-font-color-red H-font-size-10 H-margin-horizontal-right-5"></i><i class="H-iconfont H-icon-star-fill H-theme-font-color-red H-font-size-10 H-margin-horizontal-right-5"></i><i class="H-iconfont H-icon-star-fill H-theme-font-color-red H-font-size-10 H-margin-horizontal-right-5"></i><i class="H-iconfont H-icon-star-fill H-theme-font-color-red H-font-size-10 H-margin-horizontal-right-5"></i><i class="H-iconfont H-icon-star-half H-theme-font-color-red H-font-size-10 H-margin-horizontal-right-5"></i></div></div></a>
+
+<a href="../zhanbu/liuyao.html" class="H-flexbox-horizontal H-theme-background-color-white H-border-vertical-bottom-after"><div class="H-padding-vertical-both-10 H-center-all"><img src="picture/liuyao.jpg" alt="" title="" class="H-display-block H-margin-horizontal-left-10 " style="width: 70px; height: 70px;" /></div>
+<div class="H-flex-item H-padding-10">
+<div class="H-flexbox-horizontal">
+<div class="H-flex-item H-font-weight-500 H-text-show-row-1">六爻占卜<span class="H-theme-background-color-red H-theme-font-color-white H-font-size-12 ">限时免费</span></div>
+<div class="H-vertical-middle"><span class="H-font-size-12 H-theme-font-color-red ">0.00<label class="H-theme-font-color-999 H-font-size-12">元</label></span></div></div>
+<div class="H-font-size-12 H-theme-font-color-999 H-text-show-row-1 H-margin-vertical-top-2">工具占卜方法</div><div class="H-font-size-12 H-theme-font-color-999 H-text-show-row-1 H-margin-vertical-top-2"><i class="H-iconfont H-icon-star-fill H-theme-font-color-red H-font-size-10 H-margin-horizontal-right-5"></i><i class="H-iconfont H-icon-star-fill H-theme-font-color-red H-font-size-10 H-margin-horizontal-right-5"></i><i class="H-iconfont H-icon-star-fill H-theme-font-color-red H-font-size-10 H-margin-horizontal-right-5"></i><i class="H-iconfont H-icon-star-fill H-theme-font-color-red H-font-size-10 H-margin-horizontal-right-5"></i><i class="H-iconfont H-icon-star-half H-theme-font-color-red H-font-size-10 H-margin-horizontal-right-5"></i></div></div></a>
+</div>
+
+<div class="H-margin-horizontal-both-8" style="margin-top:5px;">
+<div class="H-flexbox-horizontal H-border-vertical-bottom-after H-theme-background-color-white">
+<div class="H-flex-item H-padding-10">
+<div class="H-font-size-14 H-theme-font-color-999 H-text-show-row-2 H-margin-vertical-top-2">热门精品</div></div></div>
+
+<a href="?id=wo1" class="H-flexbox-horizontal H-theme-background-color-white H-border-vertical-bottom-after"><div class="H-padding-vertical-both-10 H-center-all"><img src="picture/yn.jpg" class="H-display-block H-margin-horizontal-left-10 " style="width: 70px; height: 70px;" /></div>
+<div class="H-flex-item H-padding-10">
+<div class="H-flexbox-horizontal">
+<div class="H-flex-item H-font-weight-500 H-text-show-row-1">用意取卦<span class="H-theme-background-color-red H-theme-font-color-white H-font-size-12 ">热门精品</span></div>
+<div class="H-vertical-middle"><span class="H-font-size-12 H-theme-font-color-red ">会员<label class="H-theme-font-color-999 H-font-size-12">免费</label></span></div></div>
+<div class="H-font-size-12 H-theme-font-color-999 H-text-show-row-1 H-margin-vertical-top-2">如何观察阴阳的变化来取卦？</div><div class="H-font-size-12 H-theme-font-color-999 H-text-show-row-1 H-margin-vertical-top-2"><i class="H-iconfont H-icon-star-fill H-theme-font-color-red H-font-size-10 H-margin-horizontal-right-5"></i><i class="H-iconfont H-icon-star-fill H-theme-font-color-red H-font-size-10 H-margin-horizontal-right-5"></i><i class="H-iconfont H-icon-star-fill H-theme-font-color-red H-font-size-10 H-margin-horizontal-right-5"></i><i class="H-iconfont H-icon-star-fill H-theme-font-color-red H-font-size-10 H-margin-horizontal-right-5"></i><i class="H-iconfont H-icon-star-half H-theme-font-color-red H-font-size-10 H-margin-horizontal-right-5"></i></div></div></a>
+
+<a href="?id=wo2" class="H-flexbox-horizontal H-theme-background-color-white H-border-vertical-bottom-after"><div class="H-padding-vertical-both-10 H-center-all"><img src="picture/mh.jpg" class="H-display-block H-margin-horizontal-left-10 " style="width: 70px; height: 70px;" /></div>
+<div class="H-flex-item H-padding-10">
+<div class="H-flexbox-horizontal">
+<div class="H-flex-item H-font-weight-500 H-text-show-row-1">梅花易数<span class="H-theme-background-color-red H-theme-font-color-white H-font-size-12 ">热门精品</span></div>
+<div class="H-vertical-middle"><span class="H-font-size-12 H-theme-font-color-red ">会员<label class="H-theme-font-color-999 H-font-size-12">免费</label></span></div></div>
+<div class="H-font-size-12 H-theme-font-color-999 H-text-show-row-1 H-margin-vertical-top-2">记录了很多取卦方法。</div><div class="H-font-size-12 H-theme-font-color-999 H-text-show-row-1 H-margin-vertical-top-2"><i class="H-iconfont H-icon-star-fill H-theme-font-color-red H-font-size-10 H-margin-horizontal-right-5"></i><i class="H-iconfont H-icon-star-fill H-theme-font-color-red H-font-size-10 H-margin-horizontal-right-5"></i><i class="H-iconfont H-icon-star-fill H-theme-font-color-red H-font-size-10 H-margin-horizontal-right-5"></i><i class="H-iconfont H-icon-star-fill H-theme-font-color-red H-font-size-10 H-margin-horizontal-right-5"></i><i class="H-iconfont H-icon-star-half H-theme-font-color-red H-font-size-10 H-margin-horizontal-right-5"></i></div></div></a>
+
+<a href="?id=wolangrensha" class="H-flexbox-horizontal H-theme-background-color-white H-border-vertical-bottom-after"><div class="H-padding-vertical-both-10 H-center-all"><img src="picture/sz.jpg" class="H-display-block H-margin-horizontal-left-10 " style="width: 70px; height: 70px;" /></div>
+<div class="H-flex-item H-padding-10">
+<div class="H-flexbox-horizontal">
+<div class="H-flex-item H-font-weight-500 H-text-show-row-1">实战易经<span class="H-theme-background-color-red H-theme-font-color-white H-font-size-12 ">热门精品</span></div>
+<div class="H-vertical-middle"><span class="H-font-size-12 H-theme-font-color-red ">会员<label class="H-theme-font-color-999 H-font-size-12">免费</label></span></div></div>
+<div class="H-font-size-12 H-theme-font-color-999 H-text-show-row-1 H-margin-vertical-top-2">实战，预测与控制</div><div class="H-font-size-12 H-theme-font-color-999 H-text-show-row-1 H-margin-vertical-top-2"><i class="H-iconfont H-icon-star-fill H-theme-font-color-red H-font-size-10 H-margin-horizontal-right-5"></i><i class="H-iconfont H-icon-star-fill H-theme-font-color-red H-font-size-10 H-margin-horizontal-right-5"></i><i class="H-iconfont H-icon-star-fill H-theme-font-color-red H-font-size-10 H-margin-horizontal-right-5"></i><i class="H-iconfont H-icon-star-fill H-theme-font-color-red H-font-size-10 H-margin-horizontal-right-5"></i><i class="H-iconfont H-icon-star-half H-theme-font-color-red H-font-size-10 H-margin-horizontal-right-5"></i></div></div></a>
+</div>

@@ -1,0 +1,42 @@
+坤卦{沃数据}
+<style>.H-table td, .H-table th{
+white-space:pre-line;word-break:keep-all;}th{background:#f4f4f4;width:12.5%;}th,td{border-right:1px solid #e6e6e6;border-bottom: 1px solid #e6e6e6;padding:10px;vertical-align: middle;font-size:14px;}img{height:14px;}
+</style>
+<div class="H-overflow-scrolling H-margin-8 H-position-relative"><table class="H-table H-table-fixed H-theme-background-color-white H-border-vertical-top-after H-border-horizontal-left-after">
+<thead><tr>
+<th onclick="location.href='?id=bagua/1'">乾1</th>
+<th onclick="location.href='?id=bagua/2'">兑2</th>
+<th onclick="location.href='?id=bagua/3'">离3</th>
+<th onclick="location.href='?id=bagua/4'">震4</th>
+<th onclick="location.href='?id=bagua/5'">巽5</th>
+<th onclick="location.href='?id=bagua/6'">坎6</th>
+<th onclick="location.href='?id=bagua/7'">艮7</th>
+<th onclick="location.href='?id=bagua/8'">坤8</th>
+</tr></thead>
+</table></div>
+
+<div class="H-overflow-scrolling H-margin-8 H-position-relative"><table class="H-table H-table-fixed H-theme-background-color-white H-border-vertical-top-after H-border-horizontal-left-after">
+<thead><tr>
+<th>坤卦</th>
+<th style="width:100%">说明</th>
+</tr></thead>
+<tbody>
+<tr><td>正象</td><td><img src="data/bagua/picture/666.png">坤三阴。即坤所代表的是上，中，下三爻皆为阴爻的象意，是全阴卦。故其正象为地，其与乾卦相对应。天场对地场起作用而生万物。天为阳气，地为阴气。天为气之父，地为物之母。天主动，地从之。</td></tr>
+<tr><td>卦德</td><td>坤卦卦德为柔顺。表示坤受乾德的影响，顺从大自然的规律性，而产生万物。因其质柔，故才能有吸收一切能量的特性。如果说“乾”有放射性的话，则“坤”就是有吸收性。</td></tr>
+<tr><td>概念</td><td>方：相对圆而言。有棱角，不圆滑。“方以类聚，物以群分”，有范围，范畴之意。 虚，静，厚，载，承，后，滋养，谦让，柔和，包，有终，常，迷，贞节，操劳，低，狭，小，消极，众多，暗，藏，卑贱，胆怯，丑，灾害，迟钝。元亨，利，贞，慎，敬，养，正直，呼应，勤劳，忍耐，复杂，吝啬，优柔寡断，闭，穷，沉默，懦弱，迟缓，懒，躺，平，隐，内含，恭敬，贫贱，狭小，虚耗，衰微，伏藏，疑惑。</td></tr>
+<tr><td>方位</td><td>西南（后天八卦）。正北（先天八卦）。</td></tr>
+<tr><td>数字</td><td>二、八、五、十、万</td></tr>
+<tr><td>时间</td><td>下午一时至下午五时，共五小时。每月三十日（阴历）。</td></tr>
+<tr><td>干支</td><td>十干为戊，己。十二支为未，申。五行为土，纳甲为乙，癸。</td></tr>
+<tr><td>人物</td><td>坤主众也，顺也，故能描述一般群众及和顺的人，无实权的人，群众关系好，性格老实的人，与土地纺织有关的人，服从命令的臣民，长辈的女人等之类。皇后，妃，臣，国民，大众，顾问，农民，俗人，村干部，助手，税物人员，凡人，祖母，母亲，后母，妻，女主人，寡妇，阴气盛的人，消极的人，小气者，忠厚之人，大腹之人，纺织工人，房地产商，胆怯者，泥瓦工。</td></tr>
+<tr><td>人体</td><td>腹部，消化器官（脾，胃），肉，右肩。</td></tr>
+<tr><td>动物</td><td>牛，母马，百禽，百兽雌性动物，地下虫类，猫类等夜行动物，子母牛。</td></tr>
+<tr><td>物体</td><td>衣裳，布帛制品，妇女用品，衣服被褥，日用品，釜，陶瓦制品，灰，水泥，砖，沙器，米，玉米，五谷杂粮，面粉，食品，牛肉，肉类，野味，袋，包，箱子，书，大车，文章，纸张，纸箱，轿子，桨，柄把。</td></tr>
+<tr><td>场所</td><td>土，平原，平地，农村，牧场，庄稼地，郊外，故乡，老家，田野，空地，操场，广场，古陵，平房，旧房，农舍，粮库，贮藏室，会场，农贸市场，市场，城廓，国郡，肉类加工厂，鸡窝。</td></tr>
+<tr><td>婚姻</td><td>富家，庄家，商家，丑拙性吝，大腹，壮，迟钝，面黄</td></tr>
+<tr><td>大象</td><td>阴天、云、雾、露、潮湿</td></tr>
+<tr><td>季节</td><td>从小暑至白露的两个月。</td></tr>
+<tr><td>味道</td><td>甘</td></tr>
+<tr><td>颜色</td><td>黄色</td></tr>
+<tr><td>疾病</td><td>腹疾，脾胃之病，太阴候，饮食停伤，谷食不化</td></tr>
+</tbody></table></div>

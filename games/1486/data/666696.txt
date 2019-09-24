@@ -1,0 +1,38 @@
+<div class="H-border-vertical-both-after H-theme-background-color-white" style="margin:8px 8px 8px 8px;"><table class="H-table H-table-fixed H-theme-background-color-white H-border-vertical-top-after H-border-horizontal-left-after"><thead><tr><th class="H-padding-10 H-vertical-align-middle H-font-size-15 H-font-weight-500 H-theme-background-color-ccc H-border-vertical-bottom-after H-border-horizontal-right-after" style="width:15%;">名称</th><th class="H-padding-10 H-vertical-align-middle H-font-size-15 H-font-weight-500 H-theme-background-color-ccc H-border-vertical-bottom-after H-border-horizontal-right-after" style="width:85%;">解释</th></tr></thead>
+<tbody>
+<tr><td class="H-padding-10 H-vertical-align-middle H-font-size-14 H-border-vertical-bottom-after H-border-horizontal-right-after"><span class="H-display-inline-block H-padding-horizontal-both-5">卦图</span></td><td class="H-padding-10 H-vertical-align-middle H-font-size-14 H-border-vertical-bottom-after H-border-horizontal-right-after"><img src="64gua/666696.gif">，卦号：666696</td></tr>
+</tbody></table></div>
+
+<div class="H-border-vertical-both-after H-theme-background-color-white" style="margin:8px 8px 32px 8px;padding:8px;white-space:pre-wrap;word-break:break-all;">
+    第八卦 比 水地比 坎上坤下
+
+﻿    比：吉。原筮元永贞，无咎。不宁方来，后夫凶。彖曰：比，吉也，比，辅也，下顺从也。原筮元永贞，无咎，以刚中也。
+
+    不宁方来，上下应也。后夫凶，其道穷也。象曰：地上有水，比；先王以建万国，亲诸侯。
+
+    初六：有孚比之，无咎。有孚盈缶，终来有他，吉。
+
+    象曰：比之初六，有他吉也。
+
+    六二：比之自内，贞吉。
+
+    象曰：比之自内，不自失也。
+
+    六三：比之匪人。
+
+    象曰：比之匪人，不亦伤乎！
+
+    六四：外比之，贞吉。
+
+    象曰：外比於贤，以从上也。
+
+    九五：显比，王用三驱，失前禽。邑人不诫，吉。
+
+    象曰：显比之吉，位正中也。舍逆取顺，失前禽也。邑人不诫，上使中也。
+
+    上六：比之无首，凶。
+
+    象曰：比之无首，无所终也。
+------------
+
+</div>

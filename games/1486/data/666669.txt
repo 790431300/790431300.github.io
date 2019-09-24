@@ -1,0 +1,36 @@
+<div class="H-border-vertical-both-after H-theme-background-color-white" style="margin:8px 8px 8px 8px;"><table class="H-table H-table-fixed H-theme-background-color-white H-border-vertical-top-after H-border-horizontal-left-after"><thead><tr><th class="H-padding-10 H-vertical-align-middle H-font-size-15 H-font-weight-500 H-theme-background-color-ccc H-border-vertical-bottom-after H-border-horizontal-right-after" style="width:15%;">名称</th><th class="H-padding-10 H-vertical-align-middle H-font-size-15 H-font-weight-500 H-theme-background-color-ccc H-border-vertical-bottom-after H-border-horizontal-right-after" style="width:85%;">解释</th></tr></thead>
+<tbody>
+<tr><td class="H-padding-10 H-vertical-align-middle H-font-size-14 H-border-vertical-bottom-after H-border-horizontal-right-after"><span class="H-display-inline-block H-padding-horizontal-both-5">卦图</span></td><td class="H-padding-10 H-vertical-align-middle H-font-size-14 H-border-vertical-bottom-after H-border-horizontal-right-after"><img src="64gua/666669.gif">，卦号：666669</td></tr>
+</tbody></table></div>
+
+<div class="H-border-vertical-both-after H-theme-background-color-white" style="margin:8px 8px 32px 8px;padding:8px;white-space:pre-wrap;word-break:break-all;">
+    第二十三卦 剥 山地剥 艮上坤下
+
+﻿    剥：不利有攸往。彖曰：剥，剥也，柔变刚也。不利有攸往，小人长也。顺而止之，观象也。君子尚消息盈虚，天行也。象曰：山附地上，剥；上以厚下，安宅。
+
+    初六：剥牀以足，蔑贞凶。
+
+    象曰：剥牀以足，以灭下也。
+
+    六二：剥牀以辨，蔑贞凶。
+
+    象曰：剥牀以辨，未有与也。
+
+    六三：剥之，无咎。
+
+    象曰：剥之无咎，失上下也。
+
+    六四：剥牀以肤，凶。
+
+    象曰：剥牀以肤，切近灾也。
+
+    六五：贯鱼，以宫人宠，无不利。
+
+    象曰：以宫人宠，终无尤也。
+
+    上九：硕果不食，君子得舆，小人剥庐。
+
+    象曰：君子得舆，民所载也。小人剥庐，终不可用也。
+------------
+
+</div>

@@ -1,0 +1,36 @@
+<div class="H-border-vertical-both-after H-theme-background-color-white" style="margin:8px 8px 8px 8px;"><table class="H-table H-table-fixed H-theme-background-color-white H-border-vertical-top-after H-border-horizontal-left-after"><thead><tr><th class="H-padding-10 H-vertical-align-middle H-font-size-15 H-font-weight-500 H-theme-background-color-ccc H-border-vertical-bottom-after H-border-horizontal-right-after" style="width:15%;">名称</th><th class="H-padding-10 H-vertical-align-middle H-font-size-15 H-font-weight-500 H-theme-background-color-ccc H-border-vertical-bottom-after H-border-horizontal-right-after" style="width:85%;">解释</th></tr></thead>
+<tbody>
+<tr><td class="H-padding-10 H-vertical-align-middle H-font-size-14 H-border-vertical-bottom-after H-border-horizontal-right-after"><span class="H-display-inline-block H-padding-horizontal-both-5">卦图</span></td><td class="H-padding-10 H-vertical-align-middle H-font-size-14 H-border-vertical-bottom-after H-border-horizontal-right-after"><img src="64gua/996666.gif">，卦号：996666</td></tr>
+</tbody></table></div>
+
+<div class="H-border-vertical-both-after H-theme-background-color-white" style="margin:8px 8px 32px 8px;padding:8px;white-space:pre-wrap;word-break:break-all;">
+    第十九卦 临 地泽临 坤上兑下
+
+﻿    临：元，亨，利，贞。至于八月有凶。彖曰：临，刚浸而长。说而顺，刚中而应，大亨以正，天之道也。至于八月有凶，消不久也。象曰：泽上有地，临；君子以教思无穷，容保民无疆。
+
+    初九：咸临，贞吉。
+
+    象曰：咸临贞吉，志行正也。
+
+    九二：咸临，吉无不利。
+
+    象曰：咸临，吉无不利；未顺命也。
+
+    六三：甘临，无攸利。既忧之，无咎。
+
+    象曰：甘临，位不当也。既忧之，咎不长也。
+
+    六四：至临，无咎。
+
+    象曰：至临无咎，位当也。
+
+    六五：知临，大君之宜，吉。
+
+    象曰：大君之宜，行中之谓也。
+
+    上六：敦临，吉无咎。
+
+    象曰：敦临之吉，志在内也。
+------------
+
+</div>

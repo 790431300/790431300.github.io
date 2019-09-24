@@ -1,0 +1,93 @@
+五行相生相克{沃数据}<div class="H-border-vertical-both-after H-theme-background-color-white" style="margin:10px;"><table class="H-table H-table-fixed H-theme-background-color-white H-border-vertical-top-after H-border-horizontal-left-after"><thead><tr><th class="H-padding-10 H-vertical-align-middle H-font-size-15 H-font-weight-500 H-theme-background-color-f4f4f4 H-border-vertical-bottom-after H-border-horizontal-right-after">名称</th><th class="H-padding-10 H-vertical-align-middle H-font-size-15 H-font-weight-500 H-theme-background-color-f4f4f4 H-border-vertical-bottom-after H-border-horizontal-right-after">生</th><th class="H-padding-10 H-vertical-align-middle H-font-size-15 H-font-weight-500 H-theme-background-color-f4f4f4 H-border-vertical-bottom-after H-border-horizontal-right-after">克</th><th class="H-padding-10 H-vertical-align-middle H-font-size-15 H-font-weight-500 H-theme-background-color-f4f4f4 H-border-vertical-bottom-after H-border-horizontal-right-after" style="width:50%;">生克旺衰败</th></tr></thead>
+<tbody>
+<tr><td class="H-padding-10 H-vertical-align-middle H-font-size-14 H-border-vertical-bottom-after H-border-horizontal-right-after"><span class="H-display-inline-block H-padding-horizontal-both-5">金</span></td><td class="H-padding-10 H-vertical-align-middle H-font-size-14 H-border-vertical-bottom-after H-border-horizontal-right-after">金生水</td><td class="H-padding-10 H-vertical-align-middle H-font-size-14 H-border-vertical-bottom-after H-border-horizontal-right-after">金克木</td><td class="H-padding-10 H-vertical-align-middle H-font-size-14 H-border-vertical-bottom-after H-border-horizontal-right-after">金旺生水，水克火衰</td></tr>
+
+<tr><td class="H-padding-10 H-vertical-align-middle H-font-size-14 H-border-vertical-bottom-after H-border-horizontal-right-after"><span class="H-display-inline-block H-padding-horizontal-both-5">水</span></td><td class="H-padding-10 H-vertical-align-middle H-font-size-14 H-border-vertical-bottom-after H-border-horizontal-right-after">水生木</td><td class="H-padding-10 H-vertical-align-middle H-font-size-14 H-border-vertical-bottom-after H-border-horizontal-right-after">水克火</td><td class="H-padding-10 H-vertical-align-middle H-font-size-14 H-border-vertical-bottom-after H-border-horizontal-right-after">水衰木败，土旺生水</td></tr>
+
+<tr><td class="H-padding-10 H-vertical-align-middle H-font-size-14 H-border-vertical-bottom-after H-border-horizontal-right-after"><span class="H-display-inline-block H-padding-horizontal-both-5">木</span></td><td class="H-padding-10 H-vertical-align-middle H-font-size-14 H-border-vertical-bottom-after H-border-horizontal-right-after">木生火</td><td class="H-padding-10 H-vertical-align-middle H-font-size-14 H-border-vertical-bottom-after H-border-horizontal-right-after">木克土</td>
+<td class="H-padding-10 H-vertical-align-middle H-font-size-14 H-border-vertical-bottom-after H-border-horizontal-right-after">木旺生火，火克金衰</td></tr>
+
+<tr><td class="H-padding-10 H-vertical-align-middle H-font-size-14 H-border-vertical-bottom-after H-border-horizontal-right-after"><span class="H-display-inline-block H-padding-horizontal-both-5">火</span></td><td class="H-padding-10 H-vertical-align-middle H-font-size-14 H-border-vertical-bottom-after H-border-horizontal-right-after">火生土</td><td class="H-padding-10 H-vertical-align-middle H-font-size-14 H-border-vertical-bottom-after H-border-horizontal-right-after">火克金</td><td class="H-padding-10 H-vertical-align-middle H-font-size-14 H-border-vertical-bottom-after H-border-horizontal-right-after">火旺克金，金衰水衰</td></tr>
+
+<tr><td class="H-padding-10 H-vertical-align-middle H-font-size-14 H-border-vertical-bottom-after H-border-horizontal-right-after"><span class="H-display-inline-block H-padding-horizontal-both-5">土</span></td><td class="H-padding-10 H-vertical-align-middle H-font-size-14 H-border-vertical-bottom-after H-border-horizontal-right-after">土生金</td><td class="H-padding-10 H-vertical-align-middle H-font-size-14 H-border-vertical-bottom-after H-border-horizontal-right-after">土克水</td><td class="H-padding-10 H-vertical-align-middle H-font-size-14 H-border-vertical-bottom-after H-border-horizontal-right-after">土衰金败，无克木旺</td></tr>
+</tbody></table></div>
+
+
+<div class="H-border-vertical-both-after H-theme-background-color-white" style="margin:10px;padding:8px;white-space:pre-wrap;word-break: break-all;">
+世界上除了存在阴阳，还有五行，相互影响制约生克，占卜推理未来，五行应该说是必不可少的。
+
+五行特性：
+《尚书·洪范》中说：“五行，一曰水，二曰火，三曰木，四曰金，五曰土。水曰润下，火曰炎上，木曰曲直，金曰从革，土爰稼穑。”木，具有生发，条达的特性。火，具有炎热，向上的特性。土，具有长养、化育的特性。金，具有清静、收杀的特性。水，具有寒冷、向下的特性。
+
+先天五行顺序：
+金、水、木、火、土。
+
+事物与事物之间存在着一种联系，这种联系又促进着事物的发展变化。五行之间存在着相生相克的规律。相生，含有互相滋生，促进助长的意思。相克，含有互相制约、克制和抑制的意思。
+
+五行相生：
+木生火，火生土，土生金，金生水，水生木。
+
+五行相克：
+木克土，土克水，水克火，火克金，金克木。
+
+相生相克，像阴阳一样，是事物不可分割的两个方面。没有生就没有事物的发生和成长；没有克，就不能维持事物的发展和变化中的平衡与协调。
+
+没有相生就没有相克，没有相克，就没有相生，这种生中有克，克中有生，相辅相成，互相为用的关系推动和维持事物的正常生长、发展和变化。“造化之机不可无生，亦不可无制，无生而发育无由，无制则亢而为害。”（《类经图翼》）
+
+物象归类
+五行 金 木 水 火 土
+五色 白 青 黑 赤 黄
+五气 燥 风 寒 热 湿
+五味 辛 酸 咸 苦 甘
+五脏 肺 肝 肾 心 脾
+五贼 怒 喜 哀 乐 欲
+五德 义 仁 智 礼 信
+五窍 鼻 目 耳 舌 口
+五志 魄 魂 志 神 意
+五养 臭 色 声 味 饮食
+五欲 欲臭 欲色 欲声 欲味 欲饮食
+五音 商 角 羽 徴宫
+五声 哭 呼 呻 笑 歌
+五液 涕 泪 唾 汗 涎
+五元 元情 元性 元精 元神 元信
+五物 鬼魄 游魂 浊精 识神 妄意
+五牲 犬 鸡 豕 羊 牛
+
+
+亢乘与反侮，五行之间的生克制化关系失常，则事物的协调性便遭到了破坏，从而出现反常的变化现象，在自然界则表现为自然灾害，在人体则表现为疾病。
+五行之间的反常现象，主要是“亢乘”和“反侮”。
+亢乘，物盛极为亢太过。凡事物亢极则乘。乘，乘虚侵袭，强而欺弱，相克太过。
+反侮，五行中并不只存在着顺克，有时也会出现逆克，如旺克衰，强克弱的现象。
+如：
+土旺木衰，木受土克；
+木旺金衰，金受木克；
+水衰火旺，水受火克；
+土衰水旺，土受水克；
+金旺火衰，火受金克，
+这种逆克，叫反克也称反侮。
+反侮，反过来欺侮。
+
+
+五行生克规律歌诀解：
+金赖土生，土多金埋。
+土赖火生，火多土焦。
+火赖木生，木多火塞。
+木赖水生，水多木漂。
+水赖金生，金多水浊。
+金能生水，水多金沉。
+水能生木，木盛水缩。
+木能生火，火多木焚。
+火能生土，土多火晦。
+土能生金，金多土弱。
+金能克木，木坚金缺。
+木能克土，土重木折。
+土能克水，水多土流。
+水能克火，火多水热。
+火能克金，金多火息。
+强金得水，方挫其锋。
+强水得木，方缓其势。
+强木得火，方泄其英。
+强火得土，方歛其炎。
+强土得金，方化其顽。
+
+</div>

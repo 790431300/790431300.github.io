@@ -1,0 +1,42 @@
+巽卦{沃数据}
+<style>.H-table td, .H-table th{
+white-space:pre-line;word-break:keep-all;}th{background:#f4f4f4;width:12.5%;}th,td{border-right:1px solid #e6e6e6;border-bottom: 1px solid #e6e6e6;padding:10px;vertical-align: middle;font-size:14px;}img{height:14px;}
+</style>
+<div class="H-overflow-scrolling H-margin-8 H-position-relative"><table class="H-table H-table-fixed H-theme-background-color-white H-border-vertical-top-after H-border-horizontal-left-after">
+<thead><tr>
+<th onclick="location.href='?id=bagua/1'">乾1</th>
+<th onclick="location.href='?id=bagua/2'">兑2</th>
+<th onclick="location.href='?id=bagua/3'">离3</th>
+<th onclick="location.href='?id=bagua/4'">震4</th>
+<th onclick="location.href='?id=bagua/5'">巽5</th>
+<th onclick="location.href='?id=bagua/6'">坎6</th>
+<th onclick="location.href='?id=bagua/7'">艮7</th>
+<th onclick="location.href='?id=bagua/8'">坤8</th>
+</tr></thead>
+</table></div>
+
+<div class="H-overflow-scrolling H-margin-8 H-position-relative"><table class="H-table H-table-fixed H-theme-background-color-white H-border-vertical-top-after H-border-horizontal-left-after">
+<thead><tr>
+<th>巽卦</th>
+<th style="width:100%">说明</th>
+</tr></thead>
+<tbody>
+<tr><td>正象</td><td><img src="data/bagua/picture/699.png"> 巽下阴。巽卦代表一阴爻潜入二阳爻之下，表示一阴爻深入二阳刚之下，有一种深入向下，向内发展的趋。故巽卦正象为风。因为风是无孔不入的，表示一种飘动而有渗透性的事物。</td></tr>
+<tr><td>卦德</td><td>巽卦卦德由于风无孔不入具有渗透性，故为伏入。表示不管有再小的间隙，它都能在其中间存在，在其中运行，并能载运各种能量。故“巽，入也。”“阴阳之气，以雷动，以风行。</td></tr>
+<tr><td>概念</td><td>进退：风气流行无一定方向。巽卦上两阳爻为进象，下一爻，为退象，故有进退之象。从：风行是根据地势，环境，天象情况从势而行。故为顺从依赖之行。这与震从不一样。震从是主动奋进而跟随而从。巽从带有一定尝试性，而震从奋进。不决断，出入，轻，迷，疑，齐，命令，教，气味，巧，伪，商，利，长，直，精细，抚，疾，覆盖，直爽，清洁干净，附和，传达，散，繁昌，交涉，言信，奔波，空虚，权谋，数术。</td></tr>
+<tr><td>方位</td><td>东南（后天八卦）、西南（先天八卦）</td></tr>
+<tr><td>数字</td><td>五，三，八，四</td></tr>
+<tr><td>时间</td><td>上午七至十一时，共四小时。每月十七日（阴历）。</td></tr>
+<tr><td>干支</td><td>十干为乙。十二支为辰，巳。五行为木。纳甲为辛。</td></tr>
+<tr><td>人物</td><td>僧尼，仙道之人，也可代表有灵感的人或练气功的人。巽为长女，可代表在一定范围内最大岁数的妇女。巽有流动性，可以表示流动不定的职业人物。也能表示仔细认真的，精巧的职业人物等。长女，处女，僧尼，仙道之人。气功师，练功者，商人，教师，技术人员，教育者，营业员，建材，木材经济人，指挥官，手艺人，能工巧匠，传令兵，会谈人员，科技人员，优柔寡断的人，额头宽的人，头发细长而直的人，造谣者，下肢无力的人，交际人员，性格外刚强内柔弱之人，写作者，宗教家，秀才，设计人员。</td></tr>
+<tr><td>人体</td><td>头发（细，直，稀少），神经，气管，胆，筋，呼吸器官，肠道，食道，肱，股，左肩，左手肩，淋巴系统，血管，练功者的元气。</td></tr>
+<tr><td>动物</td><td>鸡，鹅，鸭，蝶，蜻蜓，蛇，地虫（蚯蚓等），山林禽虫，带鱼，鳗鱼，等细长的鱼类。虎，猫，斑马等有条纹之兽及勇猛带风声之兽。</td></tr>
+<tr><td>物体</td><td>木，木材，木制品，纤维品，丝线，邮件，绳子，麻，条材，扇子，风扇，干燥机，刀斧之类，飞机，气球，帆船，床，救生圈，蚊香，木香，兰花，香料，草药，白茅，羽毛，竹叶，枝叶，腰带，笔，旗杆，下面有口之物，长条桌柜，薄的器物，杨柳。</td></tr>
+<tr><td>场所</td><td>木，草原，竹林，道路（比较直的或比较窄的），隘路，过道，长廊，寺观，各种线路，邮局，商店，码头，机场，发射场，通风，通气，出入的各种通道，各种管道（下水道，煤气管道，自来水管道第），芦苇荡，工艺工厂，设计院，索道，升降机，传送带</td></tr>
+<tr><td>形状</td><td>飘动的，轻的，浮的，游动的，基础差，长形，条形，薄形，细长的，轻易的，不确定的，烟状，气态的，向下向里发展的，上实下虚的，外实内虚的，精巧精密的，细致的，浸润的，传输的，神奇的，外刚内柔的，顺风的，耳闻鼻嗅的。</td></tr>
+<tr><td>大象</td><td>刮风，云（高空，长条的），飓风，台风，旋风。</td></tr>
+<tr><td>季节</td><td>立夏，春夏之交（阴历五月前后）。</td></tr>
+<tr><td>味道</td><td>酸。</td></tr>
+<tr><td>颜色</td><td>蓝。</td></tr>
+<tr><td>病象</td><td>伤风感冒，中风，受风，神经症状，患胆疾，传染病，坐骨神经痛，神经痛，淋巴疾病，抽筋，强直强硬症，病情不稳定，喘息，哮喘，左肩痛，神经炎，胯股病，胫骨病，忧郁症，血管病</td></tr>
+</tbody></table></div>

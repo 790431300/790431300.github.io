@@ -1,0 +1,42 @@
+震卦{沃数据}
+<style>.H-table td, .H-table th{
+white-space:pre-line;word-break:keep-all;}th{background:#f4f4f4;width:12.5%;}th,td{border-right:1px solid #e6e6e6;border-bottom: 1px solid #e6e6e6;padding:10px;vertical-align: middle;font-size:14px;}img{height:14px;}
+</style>
+<div class="H-overflow-scrolling H-margin-8 H-position-relative"><table class="H-table H-table-fixed H-theme-background-color-white H-border-vertical-top-after H-border-horizontal-left-after">
+<thead><tr>
+<th onclick="location.href='?id=bagua/1'">乾1</th>
+<th onclick="location.href='?id=bagua/2'">兑2</th>
+<th onclick="location.href='?id=bagua/3'">离3</th>
+<th onclick="location.href='?id=bagua/4'">震4</th>
+<th onclick="location.href='?id=bagua/5'">巽5</th>
+<th onclick="location.href='?id=bagua/6'">坎6</th>
+<th onclick="location.href='?id=bagua/7'">艮7</th>
+<th onclick="location.href='?id=bagua/8'">坤8</th>
+</tr></thead>
+</table></div>
+
+<div class="H-overflow-scrolling H-margin-8 H-position-relative"><table class="H-table H-table-fixed H-theme-background-color-white H-border-vertical-top-after H-border-horizontal-left-after">
+<thead><tr>
+<th>震卦</th>
+<th style="width:100%">说明</th>
+</tr></thead>
+<tbody>
+<tr><td>正象</td><td><img src="data/bagua/picture/966.png">震下阳。即震卦所代表的是两阴爻在上，一阳爻在下，表示一种向上，向外发展的趋势，故其正象为雷。秋冬之间潜于两阴之下的阳气，春天到来，便开始向上，向外发展，震动其上之阴气，如春天万物开始发生一样，跃跃欲试，驱阴邪震万物而萌发，如春天的蛰雷。</td></tr>
+<tr><td>卦德</td><td>震卦卦德为奋励（起也）。表示阳刚在下不愿被阴邪所压制，而奋起之状。表示不墨守成规，不甘落后，勇往直前。故“万物出于震”。震为激发性，主动性。</td></tr>
+<tr><td>概念</td><td>疾速，奋进，起，出发，积极，果断，勤勉，伸长，新，显现，鸣声，躁，惧，雷电，健，惩，从，帅，征，勇气，强，霸道，追求，紧迫，功名大，鲜艳，移动，虚惊，性急，冲突，无礼，狂乱。</td></tr>
+<tr><td>方位</td><td>正东（后天八卦）、东北（先天八卦）</td></tr>
+<tr><td>数字</td><td>三，四，八</td></tr>
+<tr><td>时间</td><td>上午五至七时，共二小时；每月初三（阴历）</td></tr>
+<tr><td>干支</td><td>十干为甲。十二支为卯。五行为木。纳甲为庚。</td></tr>
+<tr><td>人物</td><td>有名望的人物，与高速运动有关的人物，情绪激动不稳定人物，保卫部门人物等。警卫，军人，法官，警察，将帅，飞行员，列车员，驾驶员，成人，长子，青年，社会活动家，激情煽动家，运动员，名人，官吏，忙人，狂人，音乐家，声音大的人，爱传闲话的人，急性,情人，多动症者，神经过敏者，壮士。</td></tr>
+<tr><td>人体</td><td>足（腿，脚），肝脏，神经，筋，头发（弯而稀少），声音，左胁，左肩臂。</td></tr>
+<tr><td>动物</td><td>龙，善鸣之马，驼，麋鹿，鹫，鹰，白鹭，鹤，鹄，云雀，金丝雀等善鸣之鸟，蜂，百足之虫。</td></tr>
+<tr><td>物体</td><td>木，蔬菜，鲜花，嫩芽，竹子，芦苇（多节之物），花蕾，树木，柴，青绿色之物，音响，乐器，车辆，电话，广播，飞机，长枪，剑，武器类，闹钟，裤子，蹄，树林。</td></tr>
+<tr><td>场所</td><td>春季的原野，田园，菜地，庭院，山林野地，震源，菜市场，线路，战场，演奏会场，广播电台，邮电局，乐器店，花店，舞厅，闹市，噪声大的场所，游乐场，远处，大道，机场，军营，公安部门，车站。</td></tr>
+<tr><td>形状</td><td>向上的，向外发展的，外虚内实的，上虚下实的，上大下小的，朝气蓬勃的，骚乱的，有声响的，恐怖的，高速的，激烈的，勇敢的，腾飞的，振动的，传达的，生长的，竞争的，急躁的。</td></tr>
+<tr><td>大象</td><td>雷雨，雷鸣，地震，火山喷发。</td></tr>
+<tr><td>季节</td><td>春分（春季阴历三四月之交）</td></tr>
+<tr><td>味道</td><td>酸</td></tr>
+<tr><td>颜色</td><td>青，绿</td></tr>
+<tr><td>病象</td><td>精神病，狂躁病，神经衰弱，羊癫风，神经过敏，惊吓症，妇科病，肝火旺，疼痛性症状，腿痛，多动症，外伤（碰撞造成），突发性症状，剧烈症状（先重后轻变化很快），咳嗽，声带咽喉症，肝病。</td></tr>
+</tbody></table></div>

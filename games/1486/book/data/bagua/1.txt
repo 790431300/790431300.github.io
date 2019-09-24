@@ -1,0 +1,40 @@
+乾卦{沃数据}
+<style>.H-table td, .H-table th{
+white-space:pre-line;word-break:keep-all;}th{background:#f4f4f4;}th,td{border-right:1px solid #e6e6e6;border-bottom: 1px solid #e6e6e6;padding:10px;vertical-align: middle;font-size:14px;}img{height:14px;}
+</style>
+<div class="H-overflow-scrolling H-margin-8 H-position-relative"><table class="H-table H-table-fixed H-theme-background-color-white H-border-vertical-top-after H-border-horizontal-left-after">
+<thead><tr>
+<th style="padding:0 20px 0 20px;" onclick="location.href='?id=bagua/1'">乾1</th>
+<th onclick="location.href='?id=bagua/2'">兑2</th>
+<th onclick="location.href='?id=bagua/3'">离3</th>
+<th onclick="location.href='?id=bagua/4'">震4</th>
+<th onclick="location.href='?id=bagua/5'">巽5</th>
+<th onclick="location.href='?id=bagua/6'">坎6</th>
+<th onclick="location.href='?id=bagua/7'">艮7</th>
+<th onclick="location.href='?id=bagua/8'">坤8</th>
+</tr></thead>
+</table></div>
+
+<div class="H-overflow-scrolling H-margin-8 H-position-relative">
+<table class="H-table H-table-fixed H-theme-background-color-white H-border-vertical-top-after H-border-horizontal-left-after"><thead><tr>
+<th>乾卦</th><th style="width:100%;">说明</th></tr></thead>
+<tbody>
+<tr><td>正象</td><td><img src="data/bagua/picture/999.png">乾三阳。即乾所具有的代表性的象为上，中，下三爻皆阳爻的象。为全阳之卦。阳中之阳。强中之强之意象。故代表天（ 即其大象）。就广范意义之象（即广象）乃为天，强，高大，宽广，尊贵，运动不止，明亮，纯净，健全等。</td></tr>
+<tr><td>卦德</td><td>所谓卦德指卦所具有的代表性的性能，性情，特点之类。 乾卦之德为刚健，表示天体运行，春夏秋冬四时更替不止，任何力量都难以改变其规律性，故刚强而健全（其规律深入到各个地方而起主导作用）。</td></tr>
+<tr><td>概念</td><td>圆，满，始，行，纯粹，精，正，大，命，神，变，锐进，强盛，长，上，高，广，道，真，善，嘉，中，仁义礼智信，元亨利贞，幸福，喜，富，强暴，残酷，傲慢，向上，老成，活动，积极，迈进，决断，威严，功，振，统一，统帅，坚固，激烈，扩大，任性，强制，冷酷，轻视，压抑，灾害，专横，专制，独霸</td></tr>
+<tr><td>方位</td><td>西北（后天八卦），正南（先天八卦）。</td></tr>
+<tr><td>数字</td><td>一，六，四，九，百，岁（周天一周）。</td></tr>
+<tr><td>时间</td><td>下午七至十一时，共四小时。每月十五月圆时。</td></tr>
+<tr><td>干支</td><td>十干为庚，辛。十二支为戌，亥。五行属金。</td></tr>
+<tr><td>人物</td><td>一般从全社会讲，代表上层人物及有领导地位的人物。从局部单位讲，为核心及起决定作用的人物。按家族讲，为长辈及老人。故乾为：君王，圣人，英雄，统治者，独裁者，掌权者，总统，首相，使节（大使之类），议员，代表，元老，厂长，经理，书记，主席，会长，名人，专家，官吏，军官，律师，银行家，后台人物，恶人，过于自信者，乞丐，下人。</td></tr>
+<tr><td>人体</td><td>头，首，胸，大肠，骨，右足，右下腹，精液，男性生殖器，身体强健，体质寒凉，骨瘦之人</td></tr>
+<tr><td>动物</td><td>龙，马，象，狮，天鹅。</td></tr>
+<tr><td>物体</td><td>金，金玉珠宝，玛瑙，宝物宝器，高档用品，天文望远镜，金钱，钟表，眼镜，古董，文物，首饰，神物，供神用具，高级车辆，高级飞机，小米，木果，瓜，珍味，腊肉，帽子，弯形金属制品。</td></tr>
+<tr><td>场所</td><td>圣地，寺院，教堂，宫宅，高级住宅，大会堂，京城都市，博物馆，名胜古迹，院，宫殿，政府机构，环形体育场，广场，弯曲的大道，郊野，远处，机关大院，古建筑。</td></tr>
+<tr><td>形状</td><td>圆的，充实的，坚硬的，完美无缺的，大的，广的，寒冷的，光泽的，高的，相连的，古老的，精致的，高级高档的，神气活现的，趾高气扬的，转圈的，大赤色的，金黄的，刚性的，苛刻的，盛大的。</td></tr>
+<tr><td>大象</td><td>晴，冰，雹，霰，寒，凉，太阳。</td></tr>
+<tr><td>季节</td><td>立冬，秋冬交节之季。</td></tr>
+<tr><td>味道</td><td>辛辣。</td></tr>
+<tr><td>颜色</td><td>大赤，金黄。</td></tr>
+<tr><td>病象</td><td>头部疾病，胸部疾病，骨病，硬化性疾病，老病，旧病，伤寒之病，变化异常之病，急性暴病，节肠疾病，便秘壅结。</td></tr>
+</tbody></table></div>

@@ -1,0 +1,29 @@
+<!doctype html><html><head><meta charset="utf-8"><meta name="viewport" content="maximum-scale=1.0,minimum-scale=1.0,user-scalable=0,width=device-width,initial-scale=1.0" /><meta name="format-detection" content="telephone=no,email=no,date=no,address=no"><title>应用检测更新</title>
+<link href="../style/hui.css" rel="stylesheet" type="text/css" />
+<style>.y{display:none;}.x{display:auto;}</style>
+</head><body>
+<header class="H-header H-theme-background-color3" id="header"><a href="JavaScript:history.back();"><span class="H-icon H-position-relative H-display-inline-block H-float-left H-vertical-middle H-theme-font-color-white H-padding-horizontal-left-5 H-z-index-100"><i class="H-iconfont H-icon-arrow-left H-font-size-18 H-vertical-middle"></i><label class="H-display-block H-vertical-middle H-font-size-15">返回</label></span></a><div class="H-header-title H-center-all H-font-size-18 H-text-show-row-1 H-theme-font-color-white H-position-absolute H-width-100-percent">应用检测更新</div></header>
+<div class="H-border-vertical-both-after H-theme-background-color-white" style="margin:10px;padding:8px;" id="apk">
+</div>
+<script>
+//最新版本号
+$version="0.1";
+function $(id){return document.getElementById(id);}
+function $_GET(variable){
+var query = window.location.search.substring(1);
+var vars = query.split("&");
+for(var i=0;i<vars.length;i++){
+var pair = vars[i].split("=");
+if(pair[0] == variable){return pair[1];}
+}
+return(false);
+}
+version=$_GET("version");
+alert(version);
+if($version>version){
+$("apk").innerHTML="有新版本了！<br/><a href='"+version+".apk'>下载安装</a>";
+}else{
+$("apk").innerHTML="已经是最新版了！";
+}
+</script>
+</body></html>

@@ -1,0 +1,43 @@
+离卦{沃数据}
+<style>.H-table td, .H-table th{
+white-space:pre-line;word-break:keep-all;}th{background:#f4f4f4;}th,td{border-right:1px solid #e6e6e6;border-bottom: 1px solid #e6e6e6;padding:10px;vertical-align: middle;font-size:14px;}img{height:14px;}
+</style>
+<div class="H-overflow-scrolling H-margin-8 H-position-relative"><table class="H-table H-table-fixed H-theme-background-color-white H-border-vertical-top-after H-border-horizontal-left-after">
+<thead><tr>
+<th onclick="location.href='?id=bagua/1'">乾1</th>
+<th onclick="location.href='?id=bagua/2'">兑2</th>
+<th onclick="location.href='?id=bagua/3'">离3</th>
+<th onclick="location.href='?id=bagua/4'">震4</th>
+<th onclick="location.href='?id=bagua/5'">巽5</th>
+<th onclick="location.href='?id=bagua/6'">坎6</th>
+<th onclick="location.href='?id=bagua/7'">艮7</th>
+<th onclick="location.href='?id=bagua/8'">坤8</th>
+</tr></thead>
+</table></div>
+
+<div class="H-overflow-scrolling H-margin-8 H-position-relative"><table class="H-table H-table-fixed H-theme-background-color-white H-border-vertical-top-after H-border-horizontal-left-after">
+<thead><tr>
+<th>离卦</th>
+<th style="width:100%">说明</th>
+</tr></thead>
+<tbody>
+<tr><td>正象</td><td><img src="data/bagua/picture/969.png">离中阴。即离卦所代表的上下两爻为阳爻，中间是阴爻的事物，表示由中心向外发展的趋势。外刚健。而内柔顺。外动内静。与内部进行交换，如火一样，向外部施放能量。火烛火苗外部可以烧毁其他东西，但火的核心确是冷的，没有毁灭性质。而火附着燃烧物上，一但燃烧起来，火必离其原火种，故离卦的正像为火，有离散之意。</td></tr>
+<tr><td>卦德</td><td>离卦卦德为明亮，美丽。离为火。为日，为电。故有照耀之意，所以为明亮。阳刚在外表示一种向外施放能量，由内向外的发展趋势，由于外刚在不断的发展变化（运动），故美丽。日照而万物茁壮而生长，千姿百态，故丽。“离者，明也，万物皆相见。”“离，丽也。日月丽乎天，百谷草木丽乎土”。</td></tr>
+<tr><td>概念</td><td>美丽，热情，热烈，火热，光明，干燥，盛大，上，明了，文字，文饰，装饰，表现，竞争，中虚，移动，戒备，包围，网，进升，虚荣，外强中干，焦躁，煽动，文章，影象，文件，表章，明察，排斥，抗拒，否定，批判，流行，记录，检举，侦察，美人，轻浮，显示，示威，花言巧语，撒谎，学问，文学，艺术，美术，发明，华丽，鲜艳，医学，文科，依附，文明，磊落，干枯，聪明，鉴定，发现，扩展，漫延，礼仪。</td></tr>
+<tr><td>方位</td><td>正南（后天八卦）。 正东（先天八卦）。</td></tr>
+<tr><td>数字</td><td>二、三、七、九</td></tr>
+<tr><td>时间</td><td>中午（上午十一时至下午一时），共两小时。每天日中时。</td></tr>
+<tr><td>干支</td><td>十干为丙，丁。十二支为巳，午。五行为火。纳甲为己。</td></tr>
+<tr><td>人物</td><td>
+离卦一般表示中年妇女，也可引伸为中间层次，中间人物。离为文，表示为文学，艺术，医学等职业。离为兵戈，故引伸为军队，法警等职业。中女，美人，贵族，文人，学者，艺术家，演员，明星，博士，判官，猎人，革命者，军人，美容师，引人注目之人，女主人公，多情者，幻想者，说假话者，抗上的人，被软禁的人，中层干部，虚伪者，想法很多的人，编辑，画家，财务人员，银行职员，记者，作家，监查人员，纪检人员，警卫，侦察员，分析人员，战士。</td></tr>
+<tr><td>人体</td><td>眼，心脏，视力，红血球，乳房，上焦，头首膺喉，小肠。</td></tr>
+<tr><td>动物</td><td>鸟，孔雀，凤，鹑等羽毛美丽的鸟类，金鱼，热带鱼，变色龙，蟹，螺，贝类，龟，飞鸟，萤火虫。</td></tr>
+<tr><td>物体</td><td>火，字，画等美术品，报纸，书刊，杂志，地图，契约，合同书，信，课本，印章，影视等电器产品，照相机，摄影机，录像机，电视机，复印机，货币，望远镜，照明用具，广告，奖状，化妆品，(花)瓶，装饰用品，火柴，打火机，火炉，空船，窗户，玻璃门窗，带眼，带孔之物，武器，燃具，遥感，绘图设备，屏风，幕，帘子，旗帜，烧烤物品，胡芦，瓜瓢，供神用品，火车，电车，车厢，轿车，焊枪，花，枫，霓虹灯。</td></tr>
+<tr><td>场所</td><td>朝阳的土地，名胜地，圣地，教堂，华丽的大街，火山，喷火口，火灾场所，凉台，大会堂，博物馆，图书馆，画廊，画店，印刷厂，部队军营，派出所，教会，学校，医院，厨房，窑，炉冶厂所，仓库，空屋，桥梁，立交桥，棚子，火车站，监视塔，电视台，广告塔，公安局，法院，检察院，广场，影剧院，证券交易所，银行，展览馆，猎场，钓鱼场所，殿堂。</td></tr>
+<tr><td>形状</td><td>美的，明亮的，发光的，热的，干燥的，可燃的，中柔的，独具慧眼的，空大的，带壳的，外实内虚的，外硬内软的，随和的，依附的，飞升的，开花的，鲜艳的，闪灼的，胖的，中间洼陷的，冒火的，向上移动的，升发的，膨胀的，纲状的。</td></tr>
+<tr><td>大象</td><td>晴天，热天，酷暑，烈日，旱天，虹，霓，霞光，闪电，太阳</td></tr>
+<tr><td>季节</td><td>夏至（阳历六，七月之交）。</td></tr>
+<tr><td>味道</td><td>苦。</td></tr>
+<tr><td>颜色</td><td>红，花色。</td></tr>
+<tr><td>病象</td><td>眼病，心脏疾病，幻觉幻视病，烫伤，日照病，放射性疾病，乳房疾病，充血性炎症，热性病，发烧，小便黄，血液病，妇科病，囊肿，扩散性疾病，肥大病（前列腺肥大，乳腺增生，心脏肥大等）。</td></tr>
+</tbody></table></div>

@@ -1,0 +1,36 @@
+<div class="H-border-vertical-both-after H-theme-background-color-white" style="margin:8px 8px 8px 8px;"><table class="H-table H-table-fixed H-theme-background-color-white H-border-vertical-top-after H-border-horizontal-left-after"><thead><tr><th class="H-padding-10 H-vertical-align-middle H-font-size-15 H-font-weight-500 H-theme-background-color-ccc H-border-vertical-bottom-after H-border-horizontal-right-after" style="width:15%;">名称</th><th class="H-padding-10 H-vertical-align-middle H-font-size-15 H-font-weight-500 H-theme-background-color-ccc H-border-vertical-bottom-after H-border-horizontal-right-after" style="width:85%;">解释</th></tr></thead>
+<tbody>
+<tr><td class="H-padding-10 H-vertical-align-middle H-font-size-14 H-border-vertical-bottom-after H-border-horizontal-right-after"><span class="H-display-inline-block H-padding-horizontal-both-5">卦图</span></td><td class="H-padding-10 H-vertical-align-middle H-font-size-14 H-border-vertical-bottom-after H-border-horizontal-right-after"><img src="64gua/666699.gif">，卦号：666699</td></tr>
+</tbody></table></div>
+
+<div class="H-border-vertical-both-after H-theme-background-color-white" style="margin:8px 8px 32px 8px;padding:8px;white-space:pre-wrap;word-break:break-all;">
+    第二十卦 观 风地观 巽上坤下
+
+﻿    观：盥而不荐，有孚顒若。彖曰：大观在上，顺而巽，中正以观天下。观，盥而不荐，有孚顒若，下观而化也。观天之神道，而四时不忒，圣人以神道设教，而天下服矣。象曰：风行地上，观；先王以省方，观民设教。
+
+    初六：童观，小人无咎，君子吝。
+
+    象曰：初六童观，小人道也。
+
+    六二：窥观，利女贞。
+
+    象曰：窥观女贞，亦可丑也。
+
+    六三：观我生，进退。
+
+    象曰：观我生，进退；未失道也。
+
+    六四：观国之光，利用宾于王。
+
+    象曰：观国之光，尚宾也。
+
+    九五：观我生，君子无咎。
+
+    象曰：观我生，观民也。
+
+    上九：观其生，君子无咎。
+
+    象曰：观其生，志未平也。
+------------
+
+</div>

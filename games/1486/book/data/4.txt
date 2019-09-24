@@ -1,0 +1,86 @@
+四象{沃数据}
+<style>.H-table td, .H-table th{
+white-space:pre-line;word-break:keep-all;}th{background:#fff;}th,td{border-right:1px solid #e6e6e6;border-bottom: 1px solid #e6e6e6;padding:10px;vertical-align:middle;text-align:center;font-size:14px;}img{height:14px;}
+</style>
+<div <div class="H-overflow-scrolling H-margin-10 H-position-relative"><table class="H-table H-table-fixed H-theme-background-color-white H-border-vertical-top-after H-border-horizontal-left-after">
+<thead><tr>
+<th style="width:25%">老阳<img src="data/picture/99.png"></th>
+<th style="width:25%">少阴<img src="data/picture/96.png"></th>
+<th style="width:25%">少阳<img src="data/picture/69.png"></th>
+<th style="width:25%">老阴<img src="data/picture/66.png"></th>
+</tr></thead>
+<tbody>
+<tr>
+<td>夏</td><td>春</td><td>秋</td><td>冬</td>
+</tr><tr>
+<td>北</td><td>西</td><td>东</td><td>南</td>
+</tr><tr>
+<td>前天</td><td>昨天</td>
+<td>明天</td><td>后天</td>
+</tr>
+<tr>
+<td>相信</td><td>将信</td>
+<td>将疑</td><td>不信</td>
+</tr>
+<tr>
+<td>长</td><td>不长</td>
+<td>不短</td><td>短</td>
+</tr>
+<tr>
+<td>热</td><td>不热</td>
+<td>不冷</td><td>冷</td>
+</tr>
+<tr>
+<td>爱</td><td>喜欢</td>
+<td>讨厌</td><td>恨</td>
+</tr>
+<tr>
+<td>善良</td><td>冷淡</td>
+<td>调皮</td><td>魔鬼</td>
+<tr>
+<tr>
+<td>挨近</td><td>吸引</td>
+<td>排斥</td><td>远离</td>
+</tr><tr>
+<td>诚实</td><td>诚虚</td>
+<td>虚诚</td><td>撒谎</td>
+</tr>
+<td>亲人</td><td>认识</td>
+<td>陌生</td><td>仇人</td>
+</tr>
+</tr>
+<tr>
+<td>气</td><td>液</td>
+<td>水</td><td>冰</td>
+</tr>
+<tr>
+<td>火</td><td>土</td>
+<td>木</td><td>水</td>
+</tr>
+<tr>
+<td>爷爷</td><td>爸爸</td>
+<td>妈妈</td><td>奶奶</td>
+</tr>
+<tr>
+<td>生</td><td>幼</td>
+<td>老</td><td>死</td>
+</tr>
+<tr>
+<td>A型血</td><td>AB型血</td>
+<td>O型血</td><td>B型血</td>
+</tr>
+<tr>
+<td>白种人</td><td>黄种人</td>
+<td>棕种人</td><td>黑种人</td>
+</tr><tr>
+<td>陆地</td><td>天空</td>
+<td>地下</td><td>大海</td>
+</tr><tr>
+<td>孙悟空</td><td>猪八戒</td>
+<td>沙和尚</td><td>唐玄奘</td>
+</tr>
+</tbody>
+</table></div>
+
+
+<div class="H-border-vertical-both-after H-theme-background-color-white" style="margin:8px 10px 9px 10px;padding:8px;white-space:pre-wrap;word-break: break-all;">看懂了吗？善良就会吸引别人，然后接近你，邪恶就会被排斥，然后远离，举一反三，诚实代表善良，撒谎代表邪恶，善良诚实别人就会相信你和你接近变成亲近的人，邪恶撒谎别人就会不信你和你疏远变成仇人。</div>

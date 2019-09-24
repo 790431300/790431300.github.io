@@ -1,0 +1,36 @@
+<div class="H-border-vertical-both-after H-theme-background-color-white" style="margin:8px 8px 8px 8px;"><table class="H-table H-table-fixed H-theme-background-color-white H-border-vertical-top-after H-border-horizontal-left-after"><thead><tr><th class="H-padding-10 H-vertical-align-middle H-font-size-15 H-font-weight-500 H-theme-background-color-ccc H-border-vertical-bottom-after H-border-horizontal-right-after" style="width:15%;">名称</th><th class="H-padding-10 H-vertical-align-middle H-font-size-15 H-font-weight-500 H-theme-background-color-ccc H-border-vertical-bottom-after H-border-horizontal-right-after" style="width:85%;">解释</th></tr></thead>
+<tbody>
+<tr><td class="H-padding-10 H-vertical-align-middle H-font-size-14 H-border-vertical-bottom-after H-border-horizontal-right-after"><span class="H-display-inline-block H-padding-horizontal-both-5">卦图</span></td><td class="H-padding-10 H-vertical-align-middle H-font-size-14 H-border-vertical-bottom-after H-border-horizontal-right-after"><img src="64gua/999969.gif">，卦号：999969</td></tr>
+</tbody></table></div>
+
+<div class="H-border-vertical-both-after H-theme-background-color-white" style="margin:8px 8px 32px 8px;padding:8px;white-space:pre-wrap;word-break:break-all;">
+    第十四卦 大有 火天大有 离上乾下
+
+﻿    大有：元亨。彖曰：大有，柔得尊位，大中而上下应之，曰大有。其德刚健而文明，应乎天而时行，是以元亨。象曰：火在天上，大有；君子以竭恶扬善，顺天休命。
+
+    初九：无交害，匪咎，艰则无咎。
+
+    象曰：大有初九，无交害也。
+
+    九二：大车以载，有攸往，无咎。
+
+    象曰：大车以载，积中不败也。
+
+    九三：公用亨于天子，小人弗克。
+
+    象曰：公用亨于天子，小人害也。
+
+    九四：匪其彭，无咎。
+
+    象曰：匪其彭，无咎；明辨晰也。
+
+    六五：厥孚交如，威如；吉。
+
+    象曰：厥孚交如，信以发志也。威如之吉，易而无备也。
+
+    上九：自天佑之，吉无不利。
+
+    象曰：大有上吉，自天佑也。
+------------
+
+</div>
