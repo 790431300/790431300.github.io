@@ -20,9 +20,9 @@ return(false);
 }
 version=$_GET("version");
 if($version>version){
-$("apk").innerHTML="当前版本"+version+"<br/>有新版本了！<br/><a href='"+version+".apk'>下载安装"+$version+"</a>";
+$("apk").innerHTML="当前版本"+version+"<br/>应用名称:周易<br/>有新版本了！<br/><a href='"+$version+".apk'>下载安装"+$version+"</a>";
 }else{
-$("apk").innerHTML=version+"已经是最新版了！";
+$("apk").innerHTML="应用名称:周易"+version+"已经是最新版了！";
 }
 </script>
 </body></html>
