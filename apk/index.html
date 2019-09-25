@@ -7,7 +7,7 @@
 </div>
 <script>
 //最新版本号
-$version="0.3";
+$version="1.1";
 function $(id){return document.getElementById(id);}
 function $_GET(variable){
 var query = window.location.search.substring(1);
@@ -20,7 +20,7 @@ return(false);
 }
 version=$_GET("version");
 if($version>version){
-$("apk").innerHTML="当前版本"+version+"<br/>应用名称:周易<br/>有新版本了！<br/><a href='"+$version+".apk'>下载安装"+$version+"</a>";
+$("apk").innerHTML="应用名称:周易<br/>当前版本"+version+"<br/>检测到新版本了！<br/><a href='"+$version+".apk'>下载安装"+$version+"</a>";
 }else{
 $("apk").innerHTML="应用名称:周易<br/>"+version+"已经是最新版了！";
 }
