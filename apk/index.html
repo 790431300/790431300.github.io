@@ -19,10 +19,11 @@ if(pair[0] == variable){return pair[1];}
 return(false);
 }
 version=$_GET("version");
+text="不要伤害喜欢你的人，他会给你带来力量，如果你懂得积累，那么人生这个卦象很有可能由坤转乾，由坏变好。相反，更不要随意伤害别人，否则很有可能由乾转坤，由好变坏。别人伤害你，你可能会想破坏他的生活，要想人爱己，除非己爱人，有舍有得，规律如此，天意如此。";
 if($version>version){
-$("apk").innerHTML="应用名称:周易<br/>当前版本"+version+"<br/>检测到新版本了！<br/><a href='"+$version+".apk'>下载安装"+$version+"</a>";
+$("apk").innerHTML="应用名称:周易<br/>当前版本"+version+"<br/>检测到新版本了！<br/><a href='"+$version+".apk'>下载安装"+$version+"</a><br/><br/>"+text;
 }else{
-$("apk").innerHTML="应用名称:周易<br/>"+version+"已经是最新版了！<br/><br/>不要伤害喜欢你的人，他会给你带来力量，如果你懂得积累，那么人生这个卦象很有可能会由坤转乾。相反，更不要随意伤害别人，否则很有可能由乾转坤。";
+$("apk").innerHTML="应用名称:周易<br/>"+version+"已经是最新版了！<br/><br/>"+text;
 }
 </script>
 <div style="margin:10px">
