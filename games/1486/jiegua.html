@@ -27,24 +27,14 @@ return(false);
 }
 function so(url,id){
 H.toastLoading("加载中……");
-wopost='id='+id;
 var xhr = new XMLHttpRequest();
-xhr.open("POST",url,true);
-xhr.setRequestHeader("Content-type","application/x-www-form-urlencoded");
-xhr.send(wopost);
-xhr.onreadystatechange = function(){
-var XMLHttpReq = xhr;
-if (XMLHttpReq.readyState == 4) {
-if (XMLHttpReq.status == 200){
-var wo_text = XMLHttpReq.responseText;
-if(wo_text==''){
+xhr.open("GET",url, true);
+xhr.onload = function() {
 H.closeToast();
-so('data/.txt','wo');
-}else{
-$("guayi").innerHTML=wo_text;
-H.closeToast();
+$('guayi').innerHTML = this.responseText;
 }
-}}};}
+xhr.send();
+}
 $id=$_GET("id");
 so('data/'+$id+'.txt',"wo");
 if($id.length!=6){
