@@ -31,7 +31,11 @@ var xhr = new XMLHttpRequest();
 xhr.open("GET",url, true);
 xhr.onload = function() {
 H.closeToast();
+if(this.responseText.indexOf('404，喔噢，找不到页面！') !== -1){
+$('guayi').innerHTML="<center style='padding:50px'>卦号不存在！</center>";
+}else{
 $('guayi').innerHTML = this.responseText;
+}
 }
 xhr.send();
 }
