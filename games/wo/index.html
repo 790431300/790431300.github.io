@@ -1,0 +1,120 @@
+<!doctype html><html><head><meta charset="utf-8"><meta name="viewport" content="maximum-scale=1.0,minimum-scale=1.0,user-scalable=0,width=device-width,initial-scale=1.0" /><meta name="format-detection" content="telephone=no,email=no,date=no,address=no"><title>选择决定命运</title>
+<link href="http://biniwan.com/style/hui.css" rel="stylesheet" type="text/css" />
+<style>body{background:#333;}.y{display:none;}.x{display:auto;}img{padding-left:24px;padding-right:24px;padding-top:15px;}#pa>img{height:120px;}#pb>img{height:132px;}</style>
+</head><body>
+<header class="H-header H-theme-background-color1" id="header"><a onclick="javascript :history.back(-1);"><span tapmode="" class="H-icon H-position-relative H-display-inline-block H-float-left H-vertical-middle H-theme-font-color-white H-padding-horizontal-left-5 H-z-index-100"><i class="H-iconfont H-icon-arrow-left H-font-size-18 H-vertical-middle"></i><label class="H-display-block H-vertical-middle H-font-size-15">返回</label></span></a>
+<div class="H-header-title H-center-all H-font-size-18 H-text-show-row-1 H-theme-font-color-white H-position-absolute H-width-100-percent">选择决定命运</div><a href="http://biniwan.com/games/1486/index.html"><span class="H-icon H-position-relative H-display-inline-block H-float-right H-vertical-middle H-theme-font-color-white H-padding-horizontal-right-5 H-z-index-100"><label class="H-display-block H-vertical-middle H-font-size-15">查询</label></span></a></header>
+
+
+<div class="H-padding-vertical-bottom-10"></div>
+<div class="H-padding-horizontal-both-10 H-font-size-15" style="padding:8px;color:#fff;">生命中有一半是未知，有一半是可知，有一半没得选择，有一半是由自己选择，请在第一行选择一张未知的牌，再在第二行猜测未知牌的点数，点击确认选择，六次后获取卦号，然后点击查询，输入卦号进行预测，6代表危机四伏，错，凶，恶，消极悲观，过去，晚上，上半月，上半年……，9代表安然无事，对，吉，善，积极乐观，未来，白天，下半月，下半年……，虽然上天把世界弄得乱七八糟，但人类可以整理分类，包括他打乱的预测方法。</div>
+<div class="y"><e id="yy"></e><e id="cc"></e></div>
+
+
+<div style="margin:2px;text-align:center;" id="pa">
+<img src="0.png">
+<img src="0.png">
+</div>
+<div style="margin:2px;text-align:center;" id="pb">
+
+<img src="yin.png" id="imgc" onclick="imgxf(this,'6','a');">
+<img src="yang.png" id="imgd" onclick="imgxf(this,'9','b');">
+</div>
+
+<div class="H-padding-vertical-bottom-10" style="margin:32px">
+<button class="H-button H-width-100-percent H-font-size-15 H-outline-none H-padding-vertical-both-12 H-padding-horizontal-both-20 H-theme-background-color1 H-theme-font-color-white H-theme-border-color1 H-theme-border-color1-click H-theme-background-color1-click H-theme-font-color9-click H-border-radius-3" onclick="wo();">确认选择</button>
+</div>
+
+
+
+<div class="H-padding-horizontal-both-10 H-font-size-15" style="padding:8px;color:#fff;" id="wo">
+</div>
+<div class="H-padding-horizontal-both-10 H-font-size-15" style="padding:8px;color:#fff;"><b id="gh"></b><e id="gua"></e><p id="hao"></p>
+</div>
+
+<script>
+function wo(){
+
+gua=$("gua").innerText;
+if(gua.length==6){alert("获得卦号:"+gua+"，点击查询卦号的解释吧");return;}
+imgwww();
+$("gh").innerText="最终卦号：";
+var cc=$("cc").innerText;
+var yy=$("yy").innerText;
+if(cc!="" && yy!=""){
+$("imga").style.opacity="1";
+$("imgb").style.opacity="1";
+$("imgc").style.opacity="1";
+$("imgd").style.opacity="1";
+
+$("cc").innerText="";
+$("yy").innerText="";
+var wo=cc+yy;
+if(wo=="66"){
+$wo="危机四伏，消极悲观，虽然看到了危险，却没看到这个世界的美，雨后会有彩虹的。";
+$("gua").innerText+="6";
+$("hao").innerText+="√";
+}
+else if(wo=="69"){
+$wo="危机四伏，积极乐观，认为雨后会有彩虹，总能看到世界美好的一面，却不属于你，绝处可以逢生。";
+$("gua").innerText+="9";
+$("hao").innerText+="╳";
+}
+else if(wo=="96"){
+$wo="安不忘危，运势不错，可是有点悲观，不能好好的享受生活，心理上感觉有些遗憾。";
+$("gua").innerText+="6";
+$("hao").innerText+="╳";
+}
+else if(wo=="99"){
+$wo="上天选中的主角，运势很好，积极乐观，整个世界都是为你而创造，能把世界变得更加美好。";
+$("gua").innerText+="9";
+$("hao").innerText+="√";
+}
+
+$("wo").innerHTML="单卦解释："+$wo;
+
+}else{
+alert("请全部选择后在点击确认");
+}
+
+}
+function imgf(id,yy,cc){
+if(yy=="6"){
+$("imga").style.opacity="0.5";
+$("imgb").style.opacity="1";
+}else{
+$("imga").style.opacity="1";
+$("imgb").style.opacity="0.5";
+}
+$("yy").innerHTML=yy;
+}
+
+function imgxf(id,yy,cc){
+if(yy=="6"){
+$("imgc").style.opacity="0.5";
+$("imgd").style.opacity="1";
+}else{
+$("imgc").style.opacity="1";
+$("imgd").style.opacity="0.5";
+}
+$("cc").innerHTML=yy;
+}
+
+
+function $(id){return document.getElementById(id);}
+
+function imgwww(){
+num=Math.floor(Math.random()*2+1);
+if(num=="1"){
+$("pa").innerHTML='<img src="0.png" id="imga" onclick="imgf(this,\'6\',\'a\');"> <img src="0.png" id="imgb" onclick="imgf(this,\'9\',\'b\');">';
+}else{
+$("pa").innerHTML='<img src="0.png" id="imgb" onclick="imgf(this,\'9\',\'b\');"> <img src="0.png" id="imga" onclick="imgf(this,\'6\',\'a\');">';
+}
+}
+
+imgwww();
+</script>
+
+
+<br/><br/>
+</body></html>

@@ -1,0 +1,137 @@
+<!doctype html><html><head><meta charset="utf-8"><meta name="viewport" content="maximum-scale=1.0,minimum-scale=1.0,user-scalable=0,width=device-width,initial-scale=1.0" /><meta name="format-detection" content="telephone=no,email=no,date=no,address=no"><title>选择决定命运</title>
+<link href="http://biniwan.com/style/hui.css" rel="stylesheet" type="text/css" />
+<style>.y{display:none;}.x{display:auto;}img{height:64px;}</style>
+</head><body>
+<header class="H-header H-theme-background-color1" id="header"><a onclick="javascript :history.back(-1);"><span tapmode="" class="H-icon H-position-relative H-display-inline-block H-float-left H-vertical-middle H-theme-font-color-white H-padding-horizontal-left-5 H-z-index-100"><i class="H-iconfont H-icon-arrow-left H-font-size-18 H-vertical-middle"></i><label class="H-display-block H-vertical-middle H-font-size-15">返回</label></span></a>
+<div class="H-header-title H-center-all H-font-size-18 H-text-show-row-1 H-theme-font-color-white H-position-absolute H-width-100-percent">选择决定命运</div><a href="http://biniwan.com/games/1486/index.html"><span class="H-icon H-position-relative H-display-inline-block H-float-right H-vertical-middle H-theme-font-color-white H-padding-horizontal-right-5 H-z-index-100"><label class="H-display-block H-vertical-middle H-font-size-15">查询</label></span></a></header>
+
+
+<div class="H-padding-vertical-bottom-10"></div>
+<div id="woxx" class="H-padding-horizontal-both-10 H-font-size-15" style="padding:8px">请选择六张牌获取卦号，一行一张，然后点击查询，输入卦号进行预测。<br/>
+最终的卦号是：<e id="yy"></e><e id="cc" class="y"></e></div>
+
+<div>
+<div style="margin:2px;text-align:center;" id="pa">
+<img src="0.png">
+<img src="0.png">
+</div>
+<div style="margin:2px;text-align:center;display:none" id="pb">
+<img src="0.png">
+<img src="0.png">
+</div>
+
+</div>
+
+<div style="margin:2px;text-align:center;display:none" id="pc">
+<img src="0.png">
+<img src="0.png">
+</div>
+
+<div style="margin:2px;text-align:center;display:none" id="pd">
+<img src="0.png">
+<img src="0.png">
+</div>
+
+<div style="margin:2px;text-align:center;display:none" id="pe">
+<img src="0.png">
+<img src="0.png">
+
+</div>
+<div style="margin:2px;text-align:center;display:none" id="pf">
+<img src="0.png">
+<img src="0.png">
+</div>
+
+
+<div class="H-padding-vertical-bottom-10"></div>
+
+<script>
+function imgf(id,yy,cc){
+
+if(cc=="a"){
+$("pb").style.display="block";
+}
+else 
+if(cc=="b"){
+$("pc").style.display="block";
+}
+
+else if(cc=="c"){
+$("pd").style.display="block";
+}
+else 
+if(cc=="d"){
+$("pe").style.display="block";
+}
+else if(cc=="e"){
+$("pf").style.display="block";
+}
+
+
+if(yy=="6"){
+id.src="yin.png";
+}else{
+id.src="yang.png";
+}
+
+str=$("cc").innerHTML;
+
+if(str.indexOf(cc) != -1 ){
+alert("这一行已经选过了");
+}else{
+$("yy").innerHTML+=yy;
+$("cc").innerHTML+=cc;
+}
+
+}
+function $(id){return document.getElementById(id);}
+
+
+num=Math.floor(Math.random()*2+1);
+if(num=="1"){
+$("pa").innerHTML='<img src="0.png" onclick="imgf(this,\'6\',\'a\');"> <img src="0.png" onclick="imgf(this,\'9\',\'a\');">';
+}else{
+$("pa").innerHTML='<img src="0.png" onclick="imgf(this,\'9\',\'a\');"> <img src="0.png" onclick="imgf(this,\'6\',\'a\');">';
+}
+
+num=Math.floor(Math.random()*2+1);
+if(num=="1"){
+$("pb").innerHTML='<img src="0.png" onclick="imgf(this,\'6\',\'b\');"> <img src="0.png" onclick="imgf(this,\'9\',\'b\');">';
+}else{
+$("pb").innerHTML='<img src="0.png" onclick="imgf(this,\'9\',\'b\');"> <img src="0.png" onclick="imgf(this,\'6\',\'b\');">';
+}
+
+
+num=Math.floor(Math.random()*2+1);
+if(num=="1"){
+$("pc").innerHTML='<img src="0.png" onclick="imgf(this,\'6\',\'c\');"> <img src="0.png" onclick="imgf(this,\'9\',\'c\');">';
+}else{
+$("pc").innerHTML='<img src="0.png" onclick="imgf(this,\'9\',\'c\');"> <img src="0.png" onclick="imgf(this,\'6\',\'c\');">';
+}
+
+
+num=Math.floor(Math.random()*2+1);
+if(num=="1"){
+$("pd").innerHTML='<img src="0.png" onclick="imgf(this,\'6\',\'d\');"> <img src="0.png" onclick="imgf(this,\'9\',\'d\');">';
+}else{
+$("pd").innerHTML='<img src="0.png" onclick="imgf(this,\'9\',\'d\');"> <img src="0.png" onclick="imgf(this,\'6\',\'d\');">';
+}
+
+num=Math.floor(Math.random()*2+1);
+if(num=="1"){
+$("pe").innerHTML='<img src="0.png" onclick="imgf(this,\'6\',\'e\');"> <img src="0.png" onclick="imgf(this,\'9\',\'e\');">';
+}else{
+$("pe").innerHTML='<img src="0.png" onclick="imgf(this,\'9\',\'e\');"> <img src="0.png" onclick="imgf(this,\'6\',\'e\');">';
+}
+
+num=Math.floor(Math.random()*2+1);
+if(num=="1"){
+$("pf").innerHTML='<img src="0.png" onclick="imgf(this,\'6\',\'f\');"> <img src="0.png" onclick="imgf(this,\'9\',\'f\');">';
+}else{
+$("pf").innerHTML='<img src="0.png" onclick="imgf(this,\'9\',\'f\');"> <img src="0.png" onclick="imgf(this,\'6\',\'f\');">';
+}
+
+</script>
+
+
+</body></html>
