@@ -7,9 +7,7 @@
 
 
 <div class="H-padding-vertical-bottom-10"></div>
-<div class="H-padding-horizontal-both-10 H-font-size-15" style="padding:8px;color:#fff;">生命中有一半是未知，有一半是可知，有一半没得选择，有一半是由自己选择，请在第一行选择一张未知的牌，再在第二行猜测未知牌的点数，点击确认选择，六次后获取卦号，然后点击查询，输入卦号进行预测，6代表危机四伏，错，凶，恶，消极悲观，过去，晚上，上半月，上半年……，9代表安然无事，对，吉，善，积极乐观，未来，白天，下半月，下半年……，虽然上天把世界弄得乱七八糟，但人类可以整理分类，包括他打乱的预测方法。</div>
 <div class="y"><e id="yy"></e><e id="cc"></e></div>
-
 
 <div style="margin:2px;text-align:center;" id="pa">
 <img src="0.png">
@@ -27,7 +25,7 @@
 
 
 
-<div class="H-padding-horizontal-both-10 H-font-size-15" style="padding:8px;color:#fff;" id="wo">
+<div class="H-padding-horizontal-both-10 H-font-size-15" style="padding:8px;color:#fff;" id="wo">世界被分为了两部分，白天和黑夜，男人和女人，生命中有一半是未知，有一半是可知，有一半没得选择，有一半由自己选择。<br/><br/>请在第一行选择一张未知的牌，再在第二行猜测未知牌的点数，点击确认选择，六次后获取卦号，然后点击查询，输入卦号进行预测，6代表负面信息，危机四伏，错，凶，恶，消极悲观，过去，晚上，上半月，上半年……，9代表正面信息，安然无事，对，吉，善，积极乐观，未来，白天，下半月，下半年……
 </div>
 <div class="H-padding-horizontal-both-10 H-font-size-15" style="padding:8px;color:#fff;"><b id="gh"></b><e id="gua"></e><p id="hao"></p>
 </div>
@@ -51,22 +49,22 @@ $("cc").innerText="";
 $("yy").innerText="";
 var wo=yy+cc;
 if(wo=="66"){
-$wo="危机四伏，消极悲观，虽然看到了危险，却没看到这个世界的美，雨后会有彩虹的。";
+$wo="未知是6，猜测是6，危机四伏，消极悲观，虽然看到了危险，却没看到这个世界的美，雨后会有彩虹的。";
 $("gua").innerText+="6";
 $("hao").innerText+="√";
 }
 else if(wo=="69"){
-$wo="危机四伏，积极乐观，认为雨后会有彩虹，总能看到世界美好的一面，却不属于你，绝处可以逢生。";
+$wo="未知是6，猜测是9，危机四伏，却积极乐观，觉得这个世界是善的，却不知道身后有危险在偷偷靠近，天无绝人之路，绝处可以逢生。";
 $("gua").innerText+="6";
 $("hao").innerText+="╳";
 }
 else if(wo=="96"){
-$wo="安不忘危，运势不错，可是有点悲观，不能好好的享受生活，心理上感觉有些遗憾。";
+$wo="未知是9，猜测是6，处境安全，却安不忘危，运势不错，可是有点悲观，不能好好的享受生活，心理上感觉有些遗憾。";
 $("gua").innerText+="9";
 $("hao").innerText+="╳";
 }
 else if(wo=="99"){
-$wo="上天选中的主角，运势很好，积极乐观，整个世界都是为你而创造，能把世界变得更加美好。";
+$wo="未知是9，猜测是9，上天选中的主角，运势很好，积极乐观，整个世界都是为你而创造，能把世界变得更加美好。";
 $("gua").innerText+="9";
 $("hao").innerText+="√";
 }
