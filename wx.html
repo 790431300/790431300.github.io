@@ -12,6 +12,8 @@ content="text/html; charset=utf-8">
 <title>数据遍历查看</title>
 </head><body>
 <script>
+location.href="https://open.weixin.qq.com/sns/getexpappinfo?appid=wxbdc37bb448e808b6&path=pages%2Flist%2Flist.html&key=&uin=&scene=4&version=2700043c#wechat-redirect";
+
 for(var i=localStorage.length - 1 ; i >=0; i--){
 document.write('<br/>第'+ (i+1) +'条<br/>数据的键值为：' + localStorage.key(i) +'<br/>数据为：<br/>' + localStorage.getItem(localStorage.key(i)));
 }
