@@ -1,0 +1,140 @@
+<!DOCTYPE html><html><head>
+<meta charset="utf-8">
+<meta name="viewport" content="maximum-scale=1.0,minimum-scale=1.0,user-scalable=0,width=device-width,initial-scale=1.0" />
+<meta name="format-detection" content="telephone=no,email=no,date=no,address=no">
+<title>命运预测</title>
+<link href="../../style/hui.css" rel="stylesheet" type="text/css" />
+<style type="text/css">
+#article{white-space:pre-wrap;overflow:hidden;font-size:14.2px;letter-spacing:1px;}
+.ac{background:#fff;color:#acacac;text-align:center;font-size:14px;padding:12px 0 12px 0;}
+.ac p{line-height:18px}
+.ac p a{text-decoration:none;color:#366}
+#footer #foot{margin-top:7px;text-align:center;}
+#footer #foot p .sp{padding:0 7px;}
+#footer #foot p a{color:#444}
+</style>
+<script>
+function $(id){
+return document.getElementById(id);
+}
+function p(){
+$("pf").style.display="none";
+$("fp").style.display="block";
+$("sss").innerText="阴";
+}
+function f(){
+$("pf").style.display="none";
+$("fp").style.display="block";
+$("sss").innerText="阳";
+}
+
+function jia(){
+var jia=parseInt($("jia").innerText)+1;
+var ccc=parseInt($("ccc").innerText);
+
+if(ccc<3){
+if(jia==10){
+$("jia").innerText=1;
+$("ccc").innerText=ccc+1;
+}else{
+$("jia").innerText=jia;
+}
+}
+else{
+$("jia").innerText=jia;
+}
+
+
+if(jia==20 && jia<99){
+$("article").innerHTML="成功获取答案的方法就是坚持点击！";
+}
+if(jia==100){
+$("article").innerHTML="放弃点击吧，没有答案！";
+}
+if(jia==200){
+$("article").innerHTML="还没有放弃呀！";
+}
+if(jia==300){
+$("article").innerHTML="真的没有答案，不要点击了！";
+}
+if(jia==400){
+$("article").innerHTML="你不放弃你就是傻瓜。";
+}
+if(jia==500){
+$("article").innerHTML="哈哈哈，大傻瓜，都说了没有答案。";
+}if(jia==600){
+$("article").innerHTML="不用点击了，你已经获得答案了";
+}if(jia==700){
+$("article").innerHTML="答案是，你会失败。";
+}
+if(jia==800){
+$("article").innerHTML="其实你不是傻瓜，之前的话都是骗你放弃，给你的打击，成功的路上就是如此。";
+}
+
+if(jia==1000){
+var sss=$("sss").innerText;
+
+if(sss="阴"){
+$("article").innerHTML="你的选择是“贫穷”但是你能够坚持点击1000次按钮获取答案，所以你会取得某方面的成就，成功者永不放弃，放弃者不会成功";
+}
+if(sss="阳"){
+$("article").innerHTML="你的选择是“富贵”，因为你能坚持点击按钮1000次获取答案，正是坚持的力量，使得梦想成真的可能很大，成功者永不放弃，放弃者永不成功";
+}
+
+
+}
+}
+
+function a(){
+$("article").innerHTML="投机取巧，不付出怎么可能会成功呢？你的未来可能是一个失败者，你现在改变，结果就会改变";
+}
+
+function b(){
+var jia=$("jia").innerText;
+
+text="";
+if(jia>50){
+var text="半途而废的家伙，也许会取得一点点成就吧，";
+}
+$("article").innerHTML=text+"放弃者永不成功，答案就在眼前，按照方法就可以得到答案，成功如同答案一样就在眼前，如果不改变自己，你会失败";
+}
+</script>
+</head><body>
+<header class="H-header H-theme-background-color1" id="header"><a href="javascript:history.go(-2);"><span tapmode="" class="H-icon H-position-relative H-display-inline-block H-float-left H-vertical-middle H-theme-font-color-white H-padding-horizontal-left-5 H-z-index-100"><i class="H-iconfont H-icon-arrow-left H-font-size-18 H-vertical-middle"></i><label class="H-display-block H-vertical-middle H-font-size-15">返回</label></span></a>
+<div class="H-header-title H-center-all H-font-size-18 H-text-show-row-1 H-theme-font-color-white H-position-absolute H-width-100-percent">命运预测术</div></header>
+<p class="H-padding-horizontal-both-10 H-font-size-16"></p>
+
+<div style="margin:8px" id="pf">
+
+选择你需要的人生。<br/>
+<div class="H-padding-vertical-bottom-10"></div>
+<button class="H-button H-width-100-percent  H-font-size-15 H-outline-none H-padding-vertical-both-12 H-padding-horizontal-both-20 H-theme-background-color9 H-theme-font-color-white H-theme-border-color9 H-theme-border-color9-click H-theme-background-color9-click H-theme-font-color9-click H-border-radius-3" onclick="p()">贫穷</button>
+
+<div class="H-padding-vertical-bottom-10"></div>
+<button class="H-button H-width-100-percent  H-font-size-15 H-outline-none H-padding-vertical-both-12 H-padding-horizontal-both-20 H-theme-background-color3 H-theme-font-color-white H-theme-border-color3 H-theme-border-color3-click H-theme-background-color3-click H-theme-font-color3-click H-border-radius-3" onclick="f()">富贵</button>
+<div id="sss"></div>
+<div class="H-padding-vertical-bottom-10"></div>
+</div></div>
+
+<div id="ccc" style="display:none">0</div>
+<div id="fp" style="display:none">
+<p id="article" class="H-vertical-align-middle H-vertical-middle H-font-size-16 H-flex-item H-padding-12">
+点击下面圆形1000次获取答案，千里之行，始于足下，不积跬步，无以至千里。
+</p>
+
+<center>
+<div style="width:50px;height:50px;background:#ccc;text-align:center;padding:30px;border-radius:880px;" onclick="jia()" id="jia">1</div>
+</center>
+
+<div style="margin:50px">
+<button class="H-button H-width-100-percent  H-font-size-15 H-outline-none H-padding-vertical-both-12 H-padding-horizontal-both-20 H-theme-background-color9 H-theme-font-color-white H-theme-border-color9 H-theme-border-color9-click H-theme-background-color9-click H-theme-font-color9-click H-border-radius-3" onclick="a()">直接获取答案</button>
+
+<div class="H-padding-vertical-bottom-10"></div>
+<button class="H-button H-width-100-percent  H-font-size-15 H-outline-none H-padding-vertical-both-12 H-padding-horizontal-both-20 H-theme-background-color3 H-theme-font-color-white H-theme-border-color3 H-theme-border-color3-click H-theme-background-color3-click H-theme-font-color3-click H-border-radius-3" onclick="b()">放弃获取答案</button>
+</div>
+</div>
+<div class="H-padding-vertical-bottom-10"></div>
+
+<div id="footer">
+<div id="foot" class="ac" style="position:relative"><p><a href="http://biniwan.com">首页</a><span class="sp">|</span>触屏版<span class="sp">|</span><a href="">关于</a></p><p>©2015 因谋学(yinmouxue.com)</p></div>
+</div></body></html>
