@@ -1,0 +1,20 @@
+眼睛{沃数据}<style>
+#n{background:#fff;width:100%;display:-webkit-box;display:-moz-box;display:box;margin:auto;margin-bottom:1px;}
+#n a{display:block;-webkit-box-flex:1;-moz-box-flex:1;box-flex:1;text-align:center;line-height:21px;font-size:18px;padding:8px;border-right:1px inset #f4f4f4;word-break:break-all;white-space:pre-wrap;}
+</style>
+<div id="n">
+<a onclick="so('data/er/x.txt','wo')">喜乐</a>
+<a onclick="so('data/er/y.txt','wo')">忧悲</a>
+<a onclick="so('data/er/j.txt','wo')">惊恐</a>
+<a onclick="so('data/er/s.txt','wo')" style="border:0px">思虑</a>
+</div>
+
+<div class="H-padding-vertical-bottom-10"></div>
+<div id="woback">data/1.txt</div><div class="H-border-vertical-both-after H-theme-background-color-white" style="margin:2px;padding:8px;white-space:pre-wrap;word-break: break-all;">
+耳朵可以听见动静，也就是声音，声音分为有情声，无情声。
+
+有情声为声音里有要传播的信息，通常是生物发出来的，如怒吼，嬉笑，哭泣，诉说。
+
+无情声为大自然发出来的声音，声音里也有数据，不过声音里面没有情感，如风声，雨声，雷声，树叶声。
+
+</div>

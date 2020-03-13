@@ -1,0 +1,59 @@
+意{沃数据}<style>
+#n{background:#fff;width:100%;display:-webkit-box;display:-moz-box;display:box;margin:auto;margin-bottom:1px;}
+#n a{display:block;-webkit-box-flex:1;-moz-box-flex:1;box-flex:1;text-align:center;line-height:21px;font-size:18px;padding:8px;border-right:1px inset #f4f4f4;word-break:break-all;white-space:pre-wrap;}
+</style>
+<div id="n">
+<a onclick="so('data/yi/x.txt','wo')">喜乐</a>
+<a onclick="so('data/yi/y.txt','wo')">忧悲</a>
+<a onclick="so('data/yi/j.txt','wo')">惊恐</a>
+<a onclick="so('data/yi/f.txt','wo')">愤怒</a>
+<a onclick="so('data/yi/s.txt','wo')" style="border:0px">思虑</a>
+</div>
+
+<div class="H-padding-vertical-bottom-10"></div>
+<div id="woback">data/1.txt</div><div class="H-border-vertical-both-after H-theme-background-color-white" style="margin:2px;padding:8px;white-space:pre-wrap;word-break: break-all;">
+义理之怒不可无。——哲 言
+
+量小者易怒。——戴 里
+
+寻求报复的人使创痕常新，如果不是这样，那么创痕早就痊愈了。——培 根
+
+恨和爱一样，是容易使人轻信的。——卢 梭
+
+当面怕你的人，背后一定会恨你。——托·福莱
+
+请提防善忍者的愤怒。——特莱顿
+
+不轻易发怒，胜于勇士。——所罗门
+
+无论你怎样地表示愤怒，却不要做出任何无法挽回的事来。——培 根
+
+生气，是拿别人的错误惩罚自己。——康 德
+
+稍忍须臾是压制恼怒的最好办法。——柏拉图
+
+在一个人发怒的时候观察他吧，因为那时候他的真性会完全显露出来。——阿莱曼
+
+战胜恼怒，比战胜劲敌更难。——基 鲁
+
+动怒的人张开他的口，但却闭上眼睛。——卡 托
+
+愤怒以愚蠢开始，以后悔告终。——毕达哥拉斯
+
+苏格拉底的太太非常凶悍，有一次，她大发脾气，把苏格拉底大骂一顿后，还有余怒未息，就提了一大桶水，浇在她先生头上．苏格拉底搔了搔淋湿的头发，笑到：雷声以后必有大雨，这是自然法则，也证明这是真理。
+
+
+森林里，兔妈妈在家做饭，等女儿回家。到了晚饭时间，医院里的鹿医生打电话告诉兔妈妈说：“你的女儿在医院，但现在已经死了。” 兔妈妈着急地赶到了医院，看到自己的女儿确实已经躺在了病床上，已无气息。
+
+兔妈妈听鹿护士们私下议论说，“可怜的小兔啊，被狼给咬死了。”这是兔妈妈想起老狼昨晚邀女儿一起出去玩，兔妈妈并没有同意，谁知小兔子却私自偷跑了。
+
+这时，兔妈妈仔细地观察了小兔的身体，发现小兔身上确实有两个大口子。后来，森林之王狮子宣布“由于不幸失足，小兔子摔下了悬崖摔死了”。
+
+兔妈妈很不甘心。这时，三只小羊站了出来，声称小兔子可能真的是被咬死的。没想到，他们却狮子定罪，被囚禁起来。
+
+猫头鹰作为律师，为三只小羊辩护，说他们只是提出质疑，为什么被抓。猫头鹰的高谈论阔令狮子恼羞成怒，说由于8年前猫头鹰犯下了一个错误，被停止职位一年。
+
+如今，小兔的死因还在调查之中，小羊被囚禁了将近7个月，猫头鹰则仍被停职。老狼却在不知何处继续残害小动物。
+
+而狮子，他可是百兽之王，他自然是无忧无虑地过着。
+</div>

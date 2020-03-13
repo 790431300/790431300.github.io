@@ -1,0 +1,61 @@
+意{沃数据}<style>
+#n{background:#fff;width:100%;display:-webkit-box;display:-moz-box;display:box;margin:auto;margin-bottom:1px;}
+#n a{display:block;-webkit-box-flex:1;-moz-box-flex:1;box-flex:1;text-align:center;line-height:21px;font-size:18px;padding:8px;border-right:1px inset #f4f4f4;word-break:break-all;white-space:pre-wrap;}
+</style>
+<div id="n">
+<a onclick="so('data/yi/x.txt','wo')">喜乐</a>
+<a onclick="so('data/yi/y.txt','wo')">忧悲</a>
+<a onclick="so('data/yi/j.txt','wo')">惊恐</a>
+<a onclick="so('data/yi/f.txt','wo')">愤怒</a>
+<a onclick="so('data/yi/s.txt','wo')" style="border:0px">思虑</a>
+</div>
+
+<div class="H-padding-vertical-bottom-10"></div>
+<div id="woback">data/1.txt</div><div class="H-border-vertical-both-after H-theme-background-color-white" style="margin:2px;padding:8px;white-space:pre-wrap;word-break: break-all;">你只有两个选择，要么死亡，要么活下去，而活下去必须吃东西，你所吃的东西曾经和你一样，悠闲活在这个世界，只不过有一天，他被无情的杀死了，放血，拔毛，剥皮，抽筋，分尸，油炸，凉拌，黄焖，清蒸，烧烤……他离开的时候声音很凄惨，反抗过却无能为力，只能在嘶吼中死去，声音慢慢的从这个世界消失，人们吃得很开心，最后肉身也消失了，如同从来没有来过这个世界。
+
+你知道吗？终有一天你也会死去，这个世界再也没有现在的你。
+
+你所吃的食物不是变成了排泄物，就是成为了你身体的一部分。
+
+想过这个问题吗？有没有人吃过人肉？
+
+你不失去，别人怎么会得到呢？
+
+千万不要去探索这个奇怪的世界，如果胆小的话，可能会被吓死。
+
+
+
+从前有一个人，他有一个女朋友。他比世界上任何一个人都爱她。
+
+可是有一天，他女朋友无情的离开了他，甚至连一个理由都没给他。
+
+看着自己的女朋友被别人挽着手逛街，他痛不欲生，失去了理智。终于有一天他把女朋友杀了。
+本来他打算杀了她以后自杀的。可是将死之时才感到生命的可贵。
+
+从此以后他天天被噩梦困扰，梦境中他女朋友赤身露体，披头散发，红舌垂地，十指如钩来向他索命。
+
+噩梦把他折磨的形如销骨，一天他找来一个道士已求摆脱。
+
+道士要他做三件事
+
+第一，把他女朋友的尸体好好安葬
+
+第二，把他女朋友生前穿的睡衣烧掉
+
+第三，把藏起来的血衣洗干净
+
+所有的事情必须在三更之前完成，要不就会有杀身之祸！
+
+他遵照道士的嘱咐把所有的事情都做的很仔细，可是那件血衣却怎么也找不到了。
+
+马上就要三更了，豆大的汗珠从他脸上滴下来把地毯都打湿了。
+
+在将要三更的时候他找到了那件血衣，可是不管怎么怎么搓就是洗不掉。
+
+这时候忽然狂风大作，电闪雷鸣。窗户被狂风拍打的左右摇曳，玻璃的碎裂声让人更加心惊肉跳，突然所有的灯全灭了，整个屋子一片漆黑。
+闪电中，只见他女朋友穿着染满鲜血的睡衣，眼睛里滴着血，满脸狰狞的指着他厉声道： “ 你知道为什么洗不掉血迹吗？？”
+
+他被吓呆了一句话说不出
+
+女朋友继续道：“因为你没有用雕牌洗衣粉，笨蛋。”
+</div>

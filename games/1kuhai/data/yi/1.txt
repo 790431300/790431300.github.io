@@ -1,0 +1,32 @@
+意{沃数据}<style>
+#n{background:#fff;width:100%;display:-webkit-box;display:-moz-box;display:box;margin:auto;margin-bottom:1px;}
+#n a{display:block;-webkit-box-flex:1;-moz-box-flex:1;box-flex:1;text-align:center;line-height:21px;font-size:18px;padding:8px;border-right:1px inset #f4f4f4;word-break:break-all;white-space:pre-wrap;}
+</style>
+<div id="n">
+<a onclick="so('data/yi/x.txt','wo')">喜乐</a>
+<a onclick="so('data/yi/y.txt','wo')">忧悲</a>
+<a onclick="so('data/yi/j.txt','wo')">惊恐</a>
+<a onclick="so('data/yi/f.txt','wo')">愤怒</a>
+<a onclick="so('data/yi/s.txt','wo')" style="border:0px">思虑</a>
+</div>
+
+<div class="H-padding-vertical-bottom-10"></div>
+<div id="woback">data/1.txt</div><div class="H-border-vertical-both-after H-theme-background-color-white" style="margin:2px;padding:8px;white-space:pre-wrap;word-break: break-all;">意：意识，感受，思维，思想，记忆
+
+认识自己，认识命运，认识世界。
+改善自己，改善命运，改善世界。
+
+见:五根眼耳鼻舌身接收正在接触世界的数据。
+思维:判断处理五根的所见所闻所听所触所尝。
+念:思维处理后保存在大脑的记忆。
+语:意念(思维，记忆)控制言语。
+业:意念(思维，记忆)控制行为。
+命:意念控制言语，行为改变命运。
+
+由于看见的，判断的，不一定对，所以需要正，八正道：正见，正思维，正语，正业，正命，正精进，正念，正定。
+
+正定:不去做损害身心的事。
+正精进:朝着正确的目标前进。
+
+需要佛学入门教程加QQ：790431300
+</div>

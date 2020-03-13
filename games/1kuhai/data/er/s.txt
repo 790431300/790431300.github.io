@@ -1,0 +1,53 @@
+耳朵-喜乐{沃数据}<div id="woback">data/1.txt</div><style>
+#n{background:#fff;width:100%;display:-webkit-box;display:-moz-box;display:box;margin:auto;margin-bottom:1px;}
+#n a{display:block;-webkit-box-flex:1;-moz-box-flex:1;box-flex:1;text-align:center;line-height:21px;font-size:18px;padding:8px;border-right:1px inset #f4f4f4;word-break:break-all;white-space:pre-wrap;}
+</style>
+
+<div id="n">
+<a onclick="so('data/er/x.txt','wo')">喜乐</a>
+<a onclick="so('data/er/y.txt','wo')">忧悲</a>
+<a onclick="so('data/er/j.txt','wo')">惊恐</a>
+<a onclick="so('data/er/s.txt','wo')" style="border:0px">思虑</a>
+</div>
+
+<div class="H-padding-vertical-bottom-10"></div>
+
+<link href="data/er/audio.css" rel="stylesheet" type="text/css" />
+<audio src="data/er/audio/4.mp3" loop="99" id="audio" style="display:none"></audio>
+
+
+<div class="container"><div class="playerWrap">
+<div class="jp-jplayer" id="kuPlayer"></div>
+<div class="jp-audio" id="jp_container_1">
+<div class="playerBg" style="background-image:url(data/er/bg.png);"></div>
+<div class="playerMask"></div>
+<div class="playerBox clearfix">
+<div class="t-i">
+<a class="playerAlbum"><img src="data/er/bg.png"></a>
+</div>
+<div class="t-t">
+<h1 class="playerSong">思考</h1>
+<div class="playerSinger">
+<a>音效</a>
+</div>
+<div class="playerHot"><em>0</em>.0分</div>
+</div>
+<div class="playTime">
+<span class="jp-current-time">00:00</span><span class="jp-duration">00:00</span>
+</div>
+
+<div class="playerBtn" id="play">
+<a class="jp-play" onclick="bo()"><img src="data/er/play.png" style="width:40px;height:40px;"></a>
+</div>
+
+<div class="jp-progress">
+<div class="jp-seek-bar">
+<div class="jp-play-bar">
+<a class="playingbtn"></a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
