@@ -11,7 +11,9 @@
 </div>
 
 <div class="H-padding-vertical-bottom-10"></div>
-<div id="woback">data/1.txt</div><div class="H-border-vertical-both-after H-theme-background-color-white" style="margin:2px;padding:8px;white-space:pre-wrap;word-break: break-all;">你只有两个选择，要么死亡，要么活下去，而活下去必须吃东西，你所吃的东西曾经和你一样，悠闲活在这个世界，只不过有一天，他被无情的杀死了，放血，拔毛，剥皮，抽筋，分尸，油炸，凉拌，黄焖，清蒸，烧烤……他离开的时候声音很凄惨，反抗过却无能为力，只能在嘶吼中死去，声音慢慢的从这个世界消失，人们吃得很开心，最后肉身也消失了，如同从来没有来过这个世界。
+<div id="woback">data/1.txt</div><div class="H-border-vertical-both-after H-theme-background-color-white" style="margin:2px;padding:8px;white-space:pre-wrap;word-break: break-all;">恐惧只能让懦弱，胆小，无知的人停下前进的脚步。
+
+你只有两个选择，要么死亡，要么活下去，而活下去必须吃东西，你所吃的东西曾经和你一样，悠闲活在这个世界，只不过有一天，他被无情的杀死了，放血，拔毛，剥皮，抽筋，分尸，油炸，凉拌，黄焖，清蒸，烧烤……他离开的时候声音很凄惨，反抗过却无能为力，只能在嘶吼中死去，声音慢慢的从这个世界消失，人们吃得很开心，最后肉身也消失了，如同从来没有来过这个世界。
 
 你知道吗？终有一天你也会死去，这个世界再也没有现在的你。
 
