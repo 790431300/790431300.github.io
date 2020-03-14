@@ -39,8 +39,8 @@
 </div>
 
 <div class="jp-progress">
-<div class="jp-seek-bar">
-<div class="jp-play-bar">
+<div class="jp-seek-bar" style="width:0%">
+<div class="jp-play-bar" style="width:0%">
 <a class="playingbtn"></a>
 </div>
 </div>
