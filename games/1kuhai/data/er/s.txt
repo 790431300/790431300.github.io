@@ -1,4 +1,4 @@
-耳朵-喜乐{沃数据}<div id="woback">data/1.txt</div><style>
+耳朵-思虑{沃数据}<div id="woback">data/1.txt</div><style>
 #n{background:#fff;width:100%;display:-webkit-box;display:-moz-box;display:box;margin:auto;margin-bottom:1px;}
 #n a{display:block;-webkit-box-flex:1;-moz-box-flex:1;box-flex:1;text-align:center;line-height:21px;font-size:18px;padding:8px;border-right:1px inset #f4f4f4;word-break:break-all;white-space:pre-wrap;}
 </style>
@@ -33,7 +33,8 @@
 <div class="playerHot"><em>0</em>.0分</div>
 </div>
 <div class="playTime">
-<span class="jp-current-time">00:00</span><span class="jp-duration">00:00</span>
+<span class="jp-current-time">00:00</span>
+<span class="jp-duration">00:00</span>
 </div>
 
 <div class="playerBtn" id="play">
@@ -47,6 +48,7 @@
 </div>
 </div>
 </div>
+
 </div>
 </div>
 </div>
