@@ -26,7 +26,7 @@
 <a class="playerAlbum"><img src="data/er/bg.png"></a>
 </div>
 <div class="t-t">
-<h1 class="playerSong">笑声</h1>
+<h1 class="playerSong">忧悲</h1>
 <div class="playerSinger">
 <a>音效</a>
 </div>
