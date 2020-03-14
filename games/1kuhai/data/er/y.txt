@@ -11,8 +11,6 @@
 
 
 <div class="H-padding-vertical-bottom-10"></div>
-
-<link href="data/er/audio.css" rel="stylesheet" type="text/css" />
 <audio src="data/er/audio/2.mp3" loop="99" id="audio" style="display:none"></audio>
 
 
