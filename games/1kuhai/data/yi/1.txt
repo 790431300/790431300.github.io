@@ -11,7 +11,7 @@
 </div>
 
 <div class="H-padding-vertical-bottom-10"></div>
-<div id="woback">data/1.txt</div><div class="H-border-vertical-both-after H-theme-background-color-white" style="margin:2px;padding:8px;white-space:pre-wrap;word-break: break-all;">意：意识，感受，思维，思想，记忆
+<div id="woback">data/1.txt</div><div class="H-border-vertical-both-after H-theme-background-color-white" style="margin:2px;padding:8px;white-space:pre-wrap;word-break: break-all;">意：意识，感受，思维，思想，记忆无非增加，删除，修改，查询，普通人只有增加，查询别人记忆的能力，修改和删除记忆的能力掌握在神的手里。
 
 认识自己，认识命运，认识世界。
 改善自己，改善命运，改善世界。
@@ -36,7 +36,7 @@
 
 别人不给你钱，你怎么得利？别人心里不认可你，你怎么得名？佛法乃是最强心术。
 
-他真的不记仇，只是有那么一段记忆在脑海中挥之不去。
+他真的不记仇，只是有那么一段经历，变成了记忆在脑海中挥之不去。
 
 需要佛学入门教程加QQ：790431300
 </div>
