@@ -11,7 +11,14 @@
 </div>
 
 <div class="H-padding-vertical-bottom-10"></div>
-<div id="woback">data/1.txt</div><div class="H-border-vertical-both-after H-theme-background-color-white" style="margin:2px;padding:8px;white-space:pre-wrap;word-break: break-all;">1、一个人如果不能学会遗忘，那将是很痛苦的事，别再自寻烦恼，快把痛苦的事给忘了吧！
+<div id="woback">data/1.txt</div><div class="H-border-vertical-both-after H-theme-background-color-white" style="margin:2px;padding:8px;white-space:pre-wrap;word-break: break-all;">得到之时会很快乐，失去之时会很悲伤。
+
+身外之物左右着凡夫的七情，还是自己的心左右着自己的七情？
+
+心若亡，肉身则亡，身若亡，事怎成？
+
+
+1、一个人如果不能学会遗忘，那将是很痛苦的事，别再自寻烦恼，快把痛苦的事给忘了吧！
 
 2、你放我走了何必又要打听要走多久。
 
