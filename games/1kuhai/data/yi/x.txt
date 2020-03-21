@@ -11,7 +11,11 @@
 </div>
 
 <div class="H-padding-vertical-bottom-10"></div>
-<div id="woback">data/1.txt</div><div class="H-border-vertical-both-after H-theme-background-color-white" style="margin:2px;padding:8px;white-space:pre-wrap;word-break: break-all;">一、偶小时侯吃饭不老实，一老农为了教育我，对我说：六零年苦呀，没饭吃，抠出来的鼻屎从来不扔的
+<div id="woback">data/1.txt</div><div class="H-border-vertical-both-after H-theme-background-color-white" style="margin:2px;padding:8px;white-space:pre-wrap;word-break: break-all;">仁者寿：不与别人吵闹，心就不会受伤，不和别人打架，身就不会受伤，不受伤就不会短命。
+
+快乐的秘诀就是给予，给予终会获得意想不到的快乐，不是给予别人痛苦，让对方身心不适，而是给予别人五根需要的享受，因为你能给他快乐，所以他认为他的生活不能没有你，因为有你生命才有意义。
+
+一、偶小时侯吃饭不老实，一老农为了教育我，对我说：六零年苦呀，没饭吃，抠出来的鼻屎从来不扔的。
 
 二、有个富豪找佣人，面试的题目是上厕所，前几个上完后都没有洗手就出来了，富豪因此把他们打发走了只有一个洗了手，于是富豪留下了他.可是有一天，富豪却发现他没有洗手就出来了，富豪问他是为什么?佣人答到：“偶今天带了手纸...” 
 
