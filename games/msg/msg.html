@@ -1,0 +1,57 @@
+<!doctype html><html><head><meta charset="utf-8"><meta name="viewport" content="maximum-scale=1.0,minimum-scale=1.0,user-scalable=0,width=device-width,initial-scale=1.0" /><meta name="format-detection" content="telephone=no,email=no,date=no,address=no"><title>WOAPP聊天室</title>
+<link href="../../style/hui.css" rel="stylesheet" type="text/css" />
+<style>.y{display:none;}.x{display:auto;}</style>
+<script src="../../script/jquery-1.12.0.min.js" type="text/JavaScript"></script>
+</head><body>
+<header class="H-header H-theme-background-color1" id="header" style="position: fixed;top:0;z-index:99999;width:100%;"><a onclick="javascript :history.back(-1);"><span tapmode="" class="H-icon H-position-relative H-display-inline-block H-float-left H-vertical-middle H-theme-font-color-white H-padding-horizontal-left-5 H-z-index-100"><i class="H-iconfont H-icon-arrow-left H-font-size-18 H-vertical-middle"></i><label class="H-display-block H-vertical-middle H-font-size-15">返回</label></span></a>
+<div class="H-header-title H-center-all H-font-size-18 H-text-show-row-1 H-theme-font-color-white H-position-absolute H-width-100-percent">WOAPP聊天室(3001)</div></header></div>
+<div class='H-chatbox-receiver H-flexbox-horizontal H-padding-horizontal-both-10 H-box-sizing-border-box H-margin-vertical-top-20'></div><div class='H-chatbox-receiver H-flexbox-horizontal H-padding-horizontal-both-10 H-box-sizing-border-box H-margin-vertical-top-20'></div><div class='H-chatbox-receiver H-flexbox-horizontal H-padding-horizontal-both-10 H-box-sizing-border-box H-margin-vertical-top-10'></div>
+<div class="H-chatbox H-padding-vertical-bottom-20" id="womsg">
+</div>
+<div class='H-chatbox-receiver H-flexbox-horizontal H-padding-horizontal-both-10 H-box-sizing-border-box H-margin-vertical-top-20'></div>
+<div class="H-chatbox-sender H-flexbox-horizontal H-padding-horizontal-both-10 H-box-sizing-border-box H-margin-vertical-top-20"></div>
+<div class="H-flexbox-horizontal H-margin-vertical-bottom-0" style="position: fixed;bottom:0;z-index:99999;"><input type="text" class="H-textbox H-vertical-align-middle H-vertical-middle H-font-size-16 H-flex-item H-box-sizing-border-box H-border-none H-outline-none H-padding-12" placeholder="总得说点什么..." id="content"/> <button class="H-button H-font-size-15 H-outline-none H-padding-vertical-both-2 H-padding-horizontal-both-10 H-theme-background-color6 H-theme-font-color-white H-theme-border-color6 H-theme-border-color6-click H-theme-background-color6-click H-theme-font-color-black-click" onclick="fx();" id="button">发送</button></div>
+
+
+<script>
+function $_GET(variable){
+var query = window.location.search.substring(1);
+var vars = query.split("&");
+for(var i=0;i<vars.length;i++){
+var pair = vars[i].split("=");
+if(pair[0] == variable){return pair[1];}
+}
+return(false);
+}
+
+function wo(){
+  let xhr = new XMLHttpRequest();
+  xhr.open('GET', 'http://zan.fxlt.vip/new.php');
+  xhr.send();
+  xhr.addEventListener("load", function () {
+  $("#womsg").html(this.responseText);
+  });
+}
+wo();
+function fx(){
+$("#button").html="发送中…";
+content=$("#content").val();
+if(content==""){
+alert("发送内容不能为空");
+$("#content").focus();
+$("#button").html="发送";
+return 0;
+}
+
+$.post("http://zan.fxlt.vip/new.php?id=1",{name:decodeURIComponent($_GET('name')),img:$_GET('img'),content:content},function(data){
+if(data=='ok'){
+$("#content").val("");
+wo();
+}else{
+alert("发送失败");
+}
+});
+}
+</script>
+</body>
+</html>

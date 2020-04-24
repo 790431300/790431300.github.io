@@ -1,0 +1,68 @@
+﻿<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="maximum-scale=1.0,minimum-scale=1.0,user-scalable=0,width=device-width,initial-scale=1.0" />
+<meta name="format-detection" content="telephone=no,email=no,date=no,address=no">
+<title>会员登录</title>
+<link href="../../style/hui.css" rel="stylesheet" type="text/css" />
+</head><body>
+<header class="H-header H-theme-background-color9" id="header">
+<a href="../"><span tapmode="" class="H-icon H-position-relative H-display-inline-block H-float-left H-vertical-middle H-theme-font-color-white H-padding-horizontal-left-5 H-z-index-100"><i class="H-iconfont H-icon-arrow-left H-font-size-18 H-vertical-middle"></i><label class="H-display-block H-vertical-middle H-font-size-15">返回</label></span></a> <div class="H-header-title H-center-all H-font-size-18 H-text-show-row-1 H-theme-font-color-white H-position-absolute H-width-100-percent">设置昵称</div></header>
+
+
+
+
+<div ACTION="msg.html" method="GET" style="margin:8px;">
+
+<div class="H-padding-vertical-bottom-10"></div>
+<div class="H-flexbox-horizontal H-border-vertical-bottom-margin-left-10-after">
+<span class="H-icon H-vertical-middle H-padding-horizontal-left-10 H-theme-background-color-white"><i class="H-iconfont H-icon-user H-font-size-18 H-vertical-middle"></i></span>
+<input type="text" class="H-textbox H-vertical-align-middle H-vertical-middle H-font-size-16 H-flex-item H-box-sizing-border-box H-border-none H-outline-none H-padding-12" placeholder="昵称" name="name" id="name"/></div>
+
+<div class="H-flexbox-horizontal">
+<span class="H-icon H-vertical-middle H-padding-horizontal-left-10 H-theme-background-color-white"><i class="H-iconfont H-icon-http H-font-size-18 H-vertical-middle"></i></span><input type="text" class="H-textbox H-vertical-align-middle H-vertical-middle H-font-size-16 H-flex-item H-box-sizing-border-box H-border-none H-outline-none H-padding-12" placeholder="头像地址" name="img" id="img" />
+</div>
+
+<script>
+function tx(name,img){
+location.href="msg.html?name="+name+"&img="+img;
+}
+function $(id){
+return document.getElementById(id);
+}
+function wo(){
+name=$("name").value;
+img=$("img").value;
+if(name!=""){
+if(img!=""){
+location.href="msg.html?name="+name+"&img="+img;
+}}else{
+alert("昵称或头像不能为空！");
+}
+}
+</script>
+<p style="margin:2px"><br/><a href="a.html">观看</a>，填写麻烦？点击选择角色：<br/><br/>
+<a class="H-button H-font-size-15 H-outline-none H-padding-vertical-both-8 H-padding-horizontal-both-20 H-theme-background-color-black H-theme-font-color-white H-theme-border-color-black H-theme-border-color-black-click H-theme-background-color-black-click H-theme-font-color-black-click" onclick="tx('孔子','tx/kz.jpeg')">孔子</a>
+
+<a class="H-button H-font-size-15 H-outline-none H-padding-vertical-both-8 H-padding-horizontal-both-20 H-theme-background-color-black H-theme-font-color-white H-theme-border-color-black H-theme-border-color-black-click H-theme-background-color-black-click H-theme-font-color-black-click" onclick="tx('曾子','tx/zz.png')">曾子</a>
+
+<a class="H-button H-font-size-15 H-outline-none H-padding-vertical-both-8 H-padding-horizontal-both-20 H-theme-background-color-black H-theme-font-color-white H-theme-border-color-black H-theme-border-color-black-click H-theme-background-color-black-click H-theme-font-color-black-click" onclick="tx('子夏','tx/zx.jpeg')">子夏</a>
+
+<a class="H-button H-font-size-15 H-outline-none H-padding-vertical-both-8 H-padding-horizontal-both-20 H-theme-background-color-black H-theme-font-color-white H-theme-border-color-black H-theme-border-color-black-click H-theme-background-color-black-click H-theme-font-color-black-click" onclick="tx('子禽','tx/zq.jpeg')">子禽</a>
+<br/><br/>
+<a class="H-button H-font-size-15 H-outline-none H-padding-vertical-both-8 H-padding-horizontal-both-20 H-theme-background-color-black H-theme-font-color-white H-theme-border-color-black H-theme-border-color-black-click H-theme-background-color-black-click H-theme-font-color-black-click" onclick="tx('子贡','tx/zg.jpeg')">子贡</a>
+<a class="H-button H-font-size-15 H-outline-none H-padding-vertical-both-8 H-padding-horizontal-both-20 H-theme-background-color-black H-theme-font-color-white H-theme-border-color-black H-theme-border-color-black-click H-theme-background-color-black-click H-theme-font-color-black-click" onclick="tx('有子','tx/youzi.png')">有子</a>
+
+<a class="H-button H-font-size-15 H-outline-none H-padding-vertical-both-8 H-padding-horizontal-both-20 H-theme-background-color-black H-theme-font-color-white H-theme-border-color-black H-theme-border-color-black-click H-theme-background-color-black-click H-theme-font-color-black-click" onclick="tx('神经病','tx/logo.jpg')">神经病</a><br/><br/>
+</p>
+
+<div class="H-padding-vertical-bottom-10"></div>
+<button class="H-button H-width-100-percent  H-font-size-15 H-outline-none H-padding-vertical-both-12 H-padding-horizontal-both-20 H-theme-background-color9 H-theme-font-color-white H-theme-border-color9 H-theme-border-color9-click H-theme-background-color9-click H-theme-font-color9-click H-border-radius-3" onclick="wo();">确认登录</button>
+<div class="H-padding-vertical-bottom-10"></div>
+</div><div class="H-padding-vertical-bottom-10"></div>
+</div>
+
+
+
+</body></HTML>
