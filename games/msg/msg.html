@@ -26,7 +26,7 @@ return(false);
 
 function wo(){
   let xhr = new XMLHttpRequest();
-  xhr.open('GET', 'http://zan.fxlt.vip/new.php');
+  xhr.open('GET', 'http://313864jd23.imdo.co/games/womsg/index.php');
   xhr.send();
   xhr.addEventListener("load", function () {
   $("#womsg").html(this.responseText);
@@ -45,7 +45,7 @@ $("#button").html="发送";
 return 0;
 }
 
-$.post("http://zan.fxlt.vip/new.php?id=1",{name:decodeURIComponent($_GET('name')),img:$_GET('img'),content:content},function(data){
+$.post("http://313864jd23.imdo.co/games/womsg/index.php?id=1",{name:decodeURIComponent($_GET('name')),img:$_GET('img'),content:content},function(data){
 if(data=='ok'){
 $("#content").val("");
 wo();
